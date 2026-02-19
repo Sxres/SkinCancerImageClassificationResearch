@@ -11,4 +11,12 @@ wheels/
 DataCleaning/Sorted_Images.rar
 # Ignore images
 DataCleaning/Images
-DataCleaning/Sorted_Images
+DataCleaning/Sorted_Dscope_Binary
+DataCleaning/SkinCancer_YOLO_Split
+
+# Yolo Stuff
+*.pt
+*.pth
+
+# Ultralytics Data & Caches (This prevents the crash you had earlier from being tracked)
+*.cache
