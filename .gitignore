@@ -18,5 +18,5 @@ DataCleaning/SkinCancer_YOLO_Split
 *.pt
 *.pth
 
-# Ultralytics Data & Caches (This prevents the crash you had earlier from being tracked)
+# Ultralytics Data & Caches 
 *.cache
