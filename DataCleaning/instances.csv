@@ -1,0 +1,958 @@
+instance_id,record_id,cancer_type,pathology,location,dscope_files,n_dscope
+instance_0001,1,Melanocytic_Nevus,benign-melanocytic nevus,l lower back,s-prd-398967587.jpg,1
+instance_0002,1,SCC,malignant- sccis,chest,s-prd-398966845.jpg,1
+instance_0003,2,Other_Benign,benign-other,right upper eyelid,s-prd-399002046.jpg,1
+instance_0004,4,Melanocytic_Nevus,benign-melanocytic nevus,left upper back,s-prd-399396846.jpg,1
+instance_0005,5,Seborrheic_Keratosis,benign-seborrheic keratosis,r forehead,s-prd-450517756.jpg,1
+instance_0006,5,Actinic_Keratosis,malignant- ak,nasal bridge,s-prd-401873031.jpg,1
+instance_0007,5,BCC,malignant- bcc,r posterior shoulder,s-prd-450517936.jpg,1
+instance_0008,5,SCC,malignant- scc,r dorsal hand ,s-prd-401872340.jpg,1
+instance_0009,6,SCC,malignant- scc,r flank ,s-prd-401900819.jpg,1
+instance_0010,8,BCC,malignant- bcc,l cheek,s-prd-401919763.jpg,1
+instance_0011,9,Melanocytic_Nevus,benign-melanocytic nevus,r upper back ,s-prd-404376189.jpg,1
+instance_0012,13,Seborrheic_Keratosis,benign-seborrheic keratosis,r distal lateral upper arm ,s-prd-421708864.jpg,1
+instance_0013,13,Actinic_Keratosis,malignant- ak,l proximal dorsal forearm ,s-prd-421709013.jpg,1
+instance_0014,13,BCC,malignant- bcc,l upper back ,s-prd-491444015.jpg,1
+instance_0015,13,BCC,malignant- bcc,r upper back,s-prd-421709193.jpg,1
+instance_0016,13,SCC,malignant- scc,l dorsal hand ,s-prd-491445225.jpg,1
+instance_0017,13,SCC,malignant- scc,l lateral neck,s-prd-421727395.jpg,1
+instance_0018,13,SCC,malignant- scc,posterior midline neck,s-prd-421708723.jpg,1
+instance_0019,13,SCC,malignant- scc,r chest,s-prd-421709225.jpg,1
+instance_0020,13,SCC,malignant- scc,r upper arm,s-prd-578697248.jpg,1
+instance_0021,13,SCC,malignant- sccis,l posterior neck ,s-prd-491444643.jpg,1
+instance_0022,13,SCC,malignant- sccis,r post auricular scalp,s-prd-404494087.jpg,1
+instance_0023,13,SCC,malignant- sccis,r upper arm ,s-prd-491444262.jpg,1
+instance_0024,13,SCC,malignant- sccis,r upper back,s-prd-663808391.jpg,1
+instance_0025,14,BCC,malignant- bcc,r posterior helix,s-prd-404508604.jpg,1
+instance_0026,17,Other_Benign,benign-other,umbilicus,s-prd-408896986.jpg,1
+instance_0027,18,BCC,malignant- bcc,l lower back,s-prd-408906213.jpg,1
+instance_0028,18,SCC,malignant- scc,r nasal ala,s-prd-408906828.jpg,1
+instance_0029,19,Other_Benign,benign-other,l antihelix,s-prd-419262485.jpg,1
+instance_0030,20,Malignant_Other,malignant- other,r medial eyebrow,s-prd-408917647.jpg,1
+instance_0031,21,Other_Benign,benign-other,l forearm,s-prd-408926575.jpg,1
+instance_0032,22,Seborrheic_Keratosis,benign-seborrheic keratosis,l lateral thigh,s-prd-431483494.jpg,1
+instance_0033,23,BCC,malignant- bcc,l nasal ala,s-prd-409353100.jpg,1
+instance_0034,24,Actinic_Keratosis,malignant- ak,l forehead,s-prd-411354490.jpg,1
+instance_0035,26,SCC,malignant- sccis,l medial ankle,s-prd-409368540.jpg,1
+instance_0036,26,SCC,malignant- sccis,r medial forearm,s-prd-409368871.jpg,1
+instance_0037,27,Melanocytic_Nevus,benign-melanocytic nevus,l flank,s-prd-618853435.jpg,1
+instance_0038,27,Melanocytic_Nevus,benign-melanocytic nevus,l upper back,s-prd-411757161.jpg,1
+instance_0039,27,Melanocytic_Nevus,benign-melanocytic nevus,r mid back,s-prd-554125753.jpg,1
+instance_0040,27,Other_Benign,benign-other,mid back,s-prd-554125583.jpg,1
+instance_0041,27,BCC,malignant- bcc,l forehead,s-prd-411756429.jpg,1
+instance_0042,28,Melanocytic_Nevus,benign-melanocytic nevus,chin,s-prd-411748380.jpg,1
+instance_0043,29,Other_Benign,benign-other,r elbow,s-prd-411788728.jpg,1
+instance_0044,30,Other_Benign,benign-other,l elbow,s-prd-484578541.jpg,1
+instance_0045,30,BCC,malignant- bcc,l dorsal 2nd toe,s-prd-411864446.jpg,1
+instance_0046,30,SCC,malignant- sccis,l chest,s-prd-411865762.jpg,1
+instance_0047,31,Melanocytic_Nevus,benign-melanocytic nevus,l upper back,s-prd-411891004.jpg,1
+instance_0048,31,Melanocytic_Nevus,benign-melanocytic nevus,r abdomen ,s-prd-463162168.jpg,1
+instance_0049,32,Actinic_Keratosis,malignant- ak,left posterior neck,s-prd-501797959.jpg,1
+instance_0050,32,BCC,malignant- bcc,left anterior thigh ,s-prd-501801126.jpg,1
+instance_0051,32,BCC,malignant- bcc,left lower back,s-prd-501795295.jpg,1
+instance_0052,32,BCC,malignant- bcc,r posterior calf,s-prd-416762407.jpg,1
+instance_0053,32,BCC,malignant- bcc,right posterior calf ,s-prd-501794595.jpg,1
+instance_0054,33,Melanocytic_Nevus,benign-melanocytic nevus,r upper shoulder,s-prd-416794088.jpg,1
+instance_0055,33,SCC,malignant- scc,l medial thigh,s-prd-416792893.jpg,1
+instance_0056,34,BCC,malignant- bcc,r shoulder,s-prd-416797991.jpg,1
+instance_0057,35,BCC,malignant- bcc,l forearm,s-prd-416815013.jpg,1
+instance_0058,36,SCC,malignant- scc,r lateral calf ,s-prd-416822048.jpg,1
+instance_0059,37,Other_Benign,benign-other,r index finger,s-prd-416829246.jpg,1
+instance_0060,38,Seborrheic_Keratosis,benign-seborrheic keratosis,l upper chest,s-prd-418830458.jpg,1
+instance_0061,39,Other_Benign,benign-other,r lower eyelid,s-prd-418847340.jpg,1
+instance_0062,41,BCC,malignant- bcc,l lateral neck,s-prd-418877019.jpg,1
+instance_0063,41,BCC,malignant- bcc,mid chest,s-prd-469718374.jpg,1
+instance_0064,41,BCC,malignant- bcc,posterior neck,s-prd-418876707.jpg,1
+instance_0065,41,BCC,malignant- bcc,r lateral neck,s-prd-418875785.jpg,1
+instance_0066,42,Other_Benign,benign-other,frontal scalp,s-prd-419217676.jpg,1
+instance_0067,43,Seborrheic_Keratosis,benign-seborrheic keratosis,r medial thigh,s-prd-419238986.jpg,1
+instance_0068,43,Uncertain_Melanocytic,"other- melanocytic lesion, possible re-excision (severe, spitz, aimp)",r upper chest,s-prd-419238029.jpg,1
+instance_0069,44,SCC,malignant- scc,l upper arm ,s-prd-420011290.jpg,1
+instance_0070,45,BCC,malignant- bcc,l thigh,s-prd-727048894.jpg,1
+instance_0071,45,SCC,malignant- sccis,r preauricular ,s-prd-420057346.jpg,1
+instance_0072,46,Melanocytic_Nevus,benign-melanocytic nevus,r 4th dorsal toe,s-prd-420075868.jpg,1
+instance_0073,48,BCC,malignant- bcc,l posterior helix,s-prd-421256066.jpg,1
+instance_0074,50,BCC,malignant- bcc,l mandible,s-prd-421323692.jpg,1
+instance_0075,50,BCC,malignant- bcc,nasal tip,s-prd-421314248.jpg,1
+instance_0076,51,Seborrheic_Keratosis,benign-seborrheic keratosis,l lower back,s-prd-421323763.jpg,1
+instance_0077,52,Seborrheic_Keratosis,benign-seborrheic keratosis,r upper post calf,s-prd-601685370.jpg,1
+instance_0078,52,Actinic_Keratosis,malignant- ak,r nasal sidewall,s-prd-421675230.jpg,1
+instance_0079,52,BCC,malignant- bcc,l lateral calf,s-prd-421676654.jpg,1
+instance_0080,52,Other_Inflammatory,"other- non-neoplastic, inflammatory, infectious",right post calf,s-prd-601684365.jpg,1
+instance_0081,53,Other_Benign,benign-other,r forearm,s-prd-424099577.jpg,1
+instance_0082,53,Seborrheic_Keratosis,benign-seborrheic keratosis,l neck ,s-prd-498491363.jpg,1
+instance_0083,53,BCC,malignant- bcc,left chest,s-prd-498492038.jpg,1
+instance_0084,54,Other_Benign,benign-other,l lateral calf,s-prd-421786537.jpg,1
+instance_0085,55,BCC,malignant- bcc,r medial cheek,s-prd-424118427.jpg,1
+instance_0086,56,Melanocytic_Nevus,benign-melanocytic nevus,l lower back,s-prd-424123701.jpg,1
+instance_0087,56,SCC,malignant- sccis,l upper back,s-prd-478009162.jpg,1
+instance_0088,57,Seborrheic_Keratosis,benign-seborrheic keratosis,r lower back ,s-prd-477874492.jpg,1
+instance_0089,57,BCC,malignant- bcc,l anterior neck,s-prd-477869550.jpg,1
+instance_0090,57,BCC,malignant- bcc,l lower abdomen,s-prd-424177340.jpg,1
+instance_0091,57,BCC,malignant- bcc,r upper back,s-prd-578757941.jpg,1
+instance_0092,57,SCC,malignant- sccis,r medial shin,s-prd-477870853.jpg,1
+instance_0093,57,SCC,malignant- sccis,r posterior arm,s-prd-477872590.jpg,1
+instance_0094,58,Melanocytic_Nevus,benign-melanocytic nevus,r axilla,s-prd-424931108.jpg,1
+instance_0095,59,Melanocytic_Nevus,benign-melanocytic nevus,mid upper back,s-prd-426596847.jpg,1
+instance_0096,60,Melanocytic_Nevus,benign-melanocytic nevus,left upper arm,s-prd-694900628.jpg,1
+instance_0097,60,Melanocytic_Nevus,benign-melanocytic nevus,r thigh,s-prd-427317804.jpg,1
+instance_0098,60,Melanoma,malignant- melanoma,l forearm ,s-prd-506278124.jpg,1
+instance_0099,60,Uncertain_Melanocytic,"other- melanocytic lesion, possible re-excision (severe, spitz, aimp)",central chest,s-prd-595385678.jpg,1
+instance_0100,60,Uncertain_Melanocytic,"other- melanocytic lesion, possible re-excision (severe, spitz, aimp)",right upper back,s-prd-595386934.jpg,1
+instance_0101,62,Seborrheic_Keratosis,benign-seborrheic keratosis,r clavicle,s-prd-429329722.jpg,1
+instance_0102,63,Melanocytic_Nevus,benign-melanocytic nevus,mid low back,s-prd-426499450.jpg,1
+instance_0103,64,Uncertain_Melanocytic,"other- melanocytic lesion, possible re-excision (severe, spitz, aimp)",r upper back,s-prd-429803988.jpg,1
+instance_0104,65,Melanoma,malignant- melanoma,r posterior thigh,s-prd-429854693.jpg,1
+instance_0105,65,Uncertain_Melanocytic,"other- melanocytic lesion, possible re-excision (severe, spitz, aimp)",r back,s-prd-429852369.jpg,1
+instance_0106,66,Actinic_Keratosis,malignant- ak,l upper back,s-prd-430706917.jpg,1
+instance_0107,67,BCC,malignant- bcc,r nasal sidewall,s-prd-426601495.jpg,1
+instance_0108,69,Melanocytic_Nevus,benign-melanocytic nevus,l upper back,s-prd-431399964.jpg,1
+instance_0109,70,Seborrheic_Keratosis,benign-seborrheic keratosis,r shin,s-prd-431438363.jpg,1
+instance_0110,71,SCC,malignant- scc,r shin,s-prd-431437737.jpg,1
+instance_0111,72,Other_Benign,benign-other,r medial cheek,s-prd-470561769.jpg,1
+instance_0112,72,Actinic_Keratosis,malignant- ak,r upper back,s-prd-433854076.jpg,1
+instance_0113,73,BCC,malignant- bcc,right chest,s-prd-433916624.jpg,1
+instance_0114,73,BCC,malignant- bcc,right frontal scalp,s-prd-433915450.jpg,1
+instance_0115,73,SCC,malignant- scc,l cheek,s-prd-498400868.jpg,1
+instance_0116,73,SCC,malignant- scc,right posterior helix,s-prd-433917932.jpg,1
+instance_0117,74,Other_Benign,benign-other,l forearm,s-prd-436150465.jpg,1
+instance_0118,75,Other_Benign,benign-other,central chest,s-prd-436209556.jpg,1
+instance_0119,76,Other_Benign,benign-other,left shin,s-prd-505257131.jpg,1
+instance_0120,76,Actinic_Keratosis,malignant- ak,r cheek,s-prd-436212915.jpg,1
+instance_0121,76,SCC,malignant- sccis,central chest,s-prd-436212672.jpg,1
+instance_0122,77,Melanocytic_Nevus,benign-melanocytic nevus,l back,s-prd-441376578.jpg,1
+instance_0123,77,Melanocytic_Nevus,benign-melanocytic nevus,mid lower back,s-prd-801788166.jpg,1
+instance_0124,77,Melanocytic_Nevus,benign-melanocytic nevus,mid upper back,s-prd-801788150.jpg,1
+instance_0125,78,Melanocytic_Nevus,benign-melanocytic nevus,l anterior lower leg,s-prd-443701846.jpg,1
+instance_0126,78,Seborrheic_Keratosis,benign-seborrheic keratosis,l cheek,s-prd-567681361.jpg,1
+instance_0127,78,Melanoma,malignant- melanoma,left shoulder lateral,s-prd-697217189.jpg,1
+instance_0128,79,Other_Benign,benign-other,l forearm,s-prd-448019365.jpg,1
+instance_0129,80,Melanocytic_Nevus,benign-melanocytic nevus,l mid back,s-prd-448028509.jpg,1
+instance_0130,81,Uncertain_Melanocytic,"other- melanocytic lesion, possible re-excision (severe, spitz, aimp)",l mid back,s-prd-448067529.jpg,1
+instance_0131,82,Melanoma,malignant- melanoma,r back,s-prd-448419374.jpg,1
+instance_0132,83,SCC,malignant- scc,frontal scalp,s-prd-450509059.jpg,1
+instance_0133,85,Melanocytic_Nevus,benign-melanocytic nevus,l thigh,s-prd-450548686.jpg,1
+instance_0134,85,Melanocytic_Nevus,benign-melanocytic nevus,mid abdomen,s-prd-622468919.jpg,1
+instance_0135,86,Melanocytic_Nevus,benign-melanocytic nevus,l back,s-prd-450601482.jpg,1
+instance_0136,87,Other_Benign,benign-other,l shoulder,s-prd-452809272.jpg,1
+instance_0137,89,Melanoma,malignant- melanoma,l thigh,s-prd-455913411.jpg,1
+instance_0138,89,Melanoma,malignant- melanoma,r upper shoulder,s-prd-668187422.jpg,1
+instance_0139,90,Melanocytic_Nevus,benign-melanocytic nevus,l foot,s-prd-495990446.jpg,1
+instance_0140,90,Melanocytic_Nevus,benign-melanocytic nevus,mid back,s-prd-561695135.jpg,1
+instance_0141,90,Melanocytic_Nevus,benign-melanocytic nevus,r mid back,s-prd-455938239.jpg,1
+instance_0142,90,BCC,malignant- bcc,l chest lateral,s-prd-630518216.jpg,1
+instance_0143,90,BCC,malignant- bcc,l chest medial,s-prd-630516563.jpg,1
+instance_0144,90,BCC,malignant- bcc,r back ,s-prd-495989797.jpg,1
+instance_0145,90,BCC,malignant- bcc,right thigh,s-prd-691433104.jpg,1
+instance_0146,90,Melanoma,malignant- melanoma,r thigh,s-prd-455940679.jpg,1
+instance_0147,90,SCC,malignant- sccis,left neck,s-prd-691432460.jpg,1
+instance_0148,92,Hemangioma,benign-hemangioma,l abdomen,s-prd-734303884.jpg,1
+instance_0149,93,Melanocytic_Nevus,benign-melanocytic nevus,r forearm,s-prd-457593487.jpg,1
+instance_0150,93,Melanoma,malignant- melanoma,r back,s-prd-770122804.jpg,1
+instance_0151,94,Actinic_Keratosis,malignant- ak,nasal bridge,s-prd-457637215.jpg,1
+instance_0152,94,BCC,malignant- bcc,left cutaneous lip,s-prd-457637505.jpg,1
+instance_0153,95,Other_Benign,benign-other,r leg,s-prd-457658512.jpg,1
+instance_0154,95,Seborrheic_Keratosis,benign-seborrheic keratosis,left calf,s-prd-618992882.jpg,1
+instance_0155,95,Melanoma,malignant- melanoma,r shoulder,s-prd-744124345.jpg,1
+instance_0156,96,Other_Benign,benign-other,l calf,s-prd-457673329.jpg,1
+instance_0157,97,Melanocytic_Nevus,benign-melanocytic nevus,l malar cheek,s-prd-457711507.jpg,1
+instance_0158,98,Melanoma,malignant- melanoma,l lower back,s-prd-700808927.jpg,1
+instance_0159,98,Melanoma,malignant- melanoma,left heel,s-prd-460192767.jpg,1
+instance_0160,98,SCC,malignant- sccis,right thigh,s-prd-582451194.jpg,1
+instance_0161,99,SCC,malignant- sccis,l forehead,s-prd-460201277.jpg,1
+instance_0162,100,BCC,malignant- bcc,r lower eyelid,s-prd-460579655.jpg,1
+instance_0163,101,Melanocytic_Nevus,benign-melanocytic nevus,l back,s-prd-460859781.jpg,1
+instance_0164,101,Melanocytic_Nevus,benign-melanocytic nevus,mid back,s-prd-547640507.jpg,1
+instance_0165,101,Seborrheic_Keratosis,benign-seborrheic keratosis,r lower leg,s-prd-460859431.jpg,1
+instance_0166,102,Melanoma,malignant- melanoma,r lower leg,s-prd-762086072.jpg,1
+instance_0167,102,SCC,malignant- scc,r back,s-prd-460940636.jpg,1
+instance_0168,102,SCC,malignant- sccis,l forearm,s-prd-572488616.jpg,1
+instance_0169,103,Other_Benign,benign-other,r 3rd finger,s-prd-462430132.jpg,1
+instance_0170,104,Seborrheic_Keratosis,benign-seborrheic keratosis,right superior helix of ear,s-prd-462454927.jpg,1
+instance_0171,105,Melanocytic_Nevus,benign-melanocytic nevus,r back ,s-prd-462526882.jpg,1
+instance_0172,106,Other_Benign,benign-other,r lateral calf,s-prd-462520263.jpg,1
+instance_0173,107,Other_Benign,benign-other,r posterior neck,s-prd-462542348.jpg,1
+instance_0174,107,BCC,malignant- bcc,l upper arm,s-prd-462544357.jpg,1
+instance_0175,107,BCC,malignant- bcc,l upper back (this is mislabeled on epic as r upper back),s-prd-462542819.jpg,1
+instance_0176,107,BCC,malignant- bcc,r shoulder ,s-prd-462542629.jpg,1
+instance_0177,108,Other_Benign,benign-other,left lobule of ear,s-prd-464740365.jpg,1
+instance_0178,109,Melanocytic_Nevus,benign-melanocytic nevus,r calf,s-prd-464792904.jpg,1
+instance_0179,109,Melanocytic_Nevus,benign-melanocytic nevus,r shin,s-prd-550065521.jpg,1
+instance_0180,110,Other_Benign,benign-other,l forearm,s-prd-464807317.jpg,1
+instance_0181,111,Melanocytic_Nevus,benign-melanocytic nevus,l nasal bridge,s-prd-464804907.jpg,1
+instance_0182,112,SCC,malignant- scc,r forehead,s-prd-464871445.jpg,1
+instance_0183,113,Seborrheic_Keratosis,benign-seborrheic keratosis,l cheek,s-prd-464889310.jpg,1
+instance_0184,113,BCC,malignant- bcc,r forehead,s-prd-464888389.jpg,1
+instance_0185,113,SCC,malignant- scc,l postauricular,s-prd-464890226.jpg,1
+instance_0186,113,SCC,malignant- scc,l temple,s-prd-464889054.jpg,1
+instance_0187,114,Actinic_Keratosis,malignant- ak,r deltoid,s-prd-464924272.jpg,1
+instance_0188,114,BCC,malignant- bcc,r nasal ala,s-prd-464924004.jpg,1
+instance_0189,114,BCC,malignant- bcc,right shin ,s-prd-505353099.jpg,1
+instance_0190,114,SCC,malignant- scc,left shin,s-prd-505354499.jpg,1
+instance_0191,114,SCC,malignant- scc,r temple,s-prd-464923541.jpg,1
+instance_0192,115,BCC,malignant- bcc,frontal scalp,s-prd-464926222.jpg,1
+instance_0193,116,Melanoma,malignant- melanoma,l mid back,s-prd-465199794.jpg,1
+instance_0194,117,Melanocytic_Nevus,benign-melanocytic nevus,posterior neck,s-prd-465587873.jpg,1
+instance_0195,118,Actinic_Keratosis,malignant- ak,l cheek,s-prd-467999815.jpg,1
+instance_0196,119,Other_Benign,benign-other,l lower lip,s-prd-635924289.jpg,1
+instance_0197,119,SCC,malignant- sccis,left lower vermilion border of lip,s-prd-468059323.jpg,1
+instance_0198,120,Melanocytic_Nevus,benign-melanocytic nevus,abdomen,s-prd-468118682.jpg,1
+instance_0199,121,Hemangioma,benign-hemangioma,l forearm,s-prd-582325555.jpg,1
+instance_0200,121,BCC,malignant- bcc,l lateral thigh,s-prd-582325823.jpg,1
+instance_0201,121,BCC,malignant- bcc,left posterior shoulder,s-prd-505182338.jpg,1
+instance_0202,121,BCC,malignant- bcc,mid upper back,s-prd-582325974.jpg,1
+instance_0203,121,BCC,malignant- bcc,r lateral leg,s-prd-469685092.jpg,1
+instance_0204,121,SCC,malignant- sccis,r dorsal hand,s-prd-469685988.jpg,1
+instance_0205,122,Seborrheic_Keratosis,benign-seborrheic keratosis,mid back,s-prd-469705987.jpg,1
+instance_0206,124,BCC,malignant- bcc,r medial cheek ,s-prd-469730320.jpg,1
+instance_0207,125,Seborrheic_Keratosis,benign-seborrheic keratosis,l crown of scalp,s-prd-469774049.jpg,1
+instance_0208,125,BCC,malignant- bcc,left temple,s-prd-469771080.jpg,1
+instance_0209,126,SCC,malignant- scc,r frontal scalp,s-prd-469776426.jpg,1
+instance_0210,127,SCC,malignant- scc,l forearm,s-prd-469801194.jpg,1
+instance_0211,128,Other_Benign,benign-other,r popliteal fossa,s-prd-469824471.jpg,1
+instance_0212,129,BCC,malignant- bcc,left forearm ,s-prd-470472926.jpg,1
+instance_0213,130,Melanocytic_Nevus,benign-melanocytic nevus,mid back,s-prd-470477652.jpg,1
+instance_0214,131,Actinic_Keratosis,malignant- ak,r dorsal hand,s-prd-472171643.jpg,1
+instance_0215,132,Dermatofibroma,benign-dermatofibroma,r thigh ,s-prd-472234265.jpg,1
+instance_0216,133,Melanocytic_Nevus,benign-melanocytic nevus,left abdomen,s-prd-676848935.jpg,1
+instance_0217,133,Melanocytic_Nevus,benign-melanocytic nevus,right shoulder,s-prd-676848755.jpg,1
+instance_0218,133,Melanoma,malignant- melanoma,crown of scalp,s-prd-585926043.jpg,1
+instance_0219,133,Uncertain_Melanocytic,"other- melanocytic lesion, possible re-excision (severe, spitz, aimp)",r chest,s-prd-472308532.jpg,1
+instance_0220,134,SCC,malignant- scc,l shin,s-prd-473101031.jpg,1
+instance_0221,135,BCC,malignant- bcc,r retro auricular ,s-prd-473132718.jpg,1
+instance_0222,136,SCC,malignant- sccis,l deltoid,s-prd-477841655.jpg,1
+instance_0223,137,Hemangioma,benign-hemangioma,r neck,s-prd-478910276.jpg,1
+instance_0224,138,Actinic_Keratosis,malignant- ak,l cheek,s-prd-478977018.jpg,1
+instance_0225,139,Melanocytic_Nevus,benign-melanocytic nevus,left chest,s-prd-479020533.jpg,1
+instance_0226,140,Uncertain_Melanocytic,"melanocytic tumor, possible re-excision (severe, spitz, aimp)",l upper abdomen ,s-prd-487942422.jpg,1
+instance_0227,141,Other_Benign,benign-other,left upper lip,s-prd-484475782.jpg,1
+instance_0228,141,Other_Benign,benign-other,right anterior shin,s-prd-484475134.jpg,1
+instance_0229,142,Other_Benign,benign-other,nasal dorsum,s-prd-481102717.jpg,1
+instance_0230,143,SCC,malignant- sccis,mid chest,s-prd-481125542.jpg,1
+instance_0231,144,Melanocytic_Nevus,benign-melanocytic nevus,r foot ,s-prd-481185104.jpg,1
+instance_0232,145,BCC,malignant- bcc,l nasal tip,s-prd-481201062.jpg,1
+instance_0233,146,Other_Benign,benign-other,l nose,s-prd-481244766.jpg,1
+instance_0234,147,Melanocytic_Nevus,benign-melanocytic nevus,left cheek,s-prd-481673805.jpg,1
+instance_0235,148,Seborrheic_Keratosis,benign-seborrheic keratosis,nasal tip,s-prd-481679139.jpg,1
+instance_0236,149,BCC,malignant- bcc,l forehead,s-prd-482125052.jpg,1
+instance_0237,150,Other_Benign,benign-other,left upper back,s-prd-491392407.jpg,1
+instance_0238,151,Seborrheic_Keratosis,benign-seborrheic keratosis,r chest,s-prd-484527659.jpg,1
+instance_0239,152,Melanoma,malignant- melanoma,r back ,s-prd-484588938.jpg,1
+instance_0240,152,Melanoma,malignant- melanoma,shoulder,s-prd-484588906.jpg,1
+instance_0241,152,SCC,malignant- scc,r calf,s-prd-484590070.jpg,1
+instance_0242,152,SCC,malignant- sccis,r lower leg,s-prd-484590058.jpg,1
+instance_0243,153,Other_Benign,benign-other,l temple,s-prd-485606415.jpg,1
+instance_0244,154,Other_Benign,benign-other,r abdomen,s-prd-485662244.jpg,1
+instance_0245,155,Other_Benign,benign-other,l breast,s-prd-485665263.jpg,1
+instance_0246,156,Actinic_Keratosis,malignant- ak,l lower calf,s-prd-668160232.jpg,1
+instance_0247,156,Actinic_Keratosis,malignant- ak,l upper calf,s-prd-668159634.jpg,1
+instance_0248,156,BCC,malignant- bcc,r lower lateral leg,s-prd-485680867.jpg,1
+instance_0249,156,Uncertain_Melanocytic,"other- melanocytic lesion, possible re-excision (severe, spitz, aimp)",l popliteal,s-prd-485681198.jpg,1
+instance_0250,157,Other_Benign,benign-other,r shoulder ,s-prd-485698850.jpg,1
+instance_0251,158,Melanocytic_Nevus,benign-melanocytic nevus,r flank,s-prd-486848462.jpg,1
+instance_0252,159,BCC,malignant- bcc,r deltoid ,s-prd-487975936.jpg,1
+instance_0253,161,Melanocytic_Nevus,benign-melanocytic nevus,central lower back,s-prd-486985699.jpg,1
+instance_0254,164,Actinic_Keratosis,malignant- ak,central upper back ,s-prd-488058614.jpg,1
+instance_0255,165,Uncertain_Melanocytic,"other- melanocytic lesion, possible re-excision (severe, spitz, aimp)",right lower back,s-prd-488513956.jpg,1
+instance_0256,166,Other_Benign,benign-other,left back,s-prd-622026255.jpg,1
+instance_0257,166,Other_Benign,benign-other,left cheek,s-prd-622024138.jpg,1
+instance_0258,166,Actinic_Keratosis,malignant- ak,l lower medial cheek ,s-prd-516512656.jpg,1
+instance_0259,166,Actinic_Keratosis,malignant- ak,l melolabia fold ,s-prd-489097079.jpg,1
+instance_0260,166,SCC,malignant- sccis,l lateral cheek ,s-prd-489097860.jpg,1
+instance_0261,167,Other_Benign,benign-other,r forehead,s-prd-489110712.jpg,1
+instance_0262,167,BCC,malignant- bcc,l lateral cheek,s-prd-489109661.jpg,1
+instance_0263,168,Uncertain_Melanocytic,"other- melanocytic lesion, possible re-excision (severe, spitz, aimp)",posterior neck ,s-prd-495947216.jpg,1
+instance_0264,169,Other_Benign,benign-other,right crown of scalp,s-prd-639852881.jpg,1
+instance_0265,169,Actinic_Keratosis,malignant- ak,left 4th finger,s-prd-639852937.jpg,1
+instance_0266,169,Actinic_Keratosis,malignant- ak,right forearm,s-prd-491395673.jpg,1
+instance_0267,170,BCC,malignant- bcc,right anterior upper arm ,s-prd-491471928.jpg,1
+instance_0268,171,Other_Benign,benign-other,upper mid back ,s-prd-492467290.jpg,1
+instance_0269,172,Other_Inflammatory,"other- non-neoplastic, inflammatory, infectious",central chest,s-prd-492505140.jpg,1
+instance_0270,173,Melanoma,malignant- melanoma,right upper back ,s-prd-494843911.jpg,1
+instance_0271,174,Actinic_Keratosis,malignant- ak,r antihelix,s-prd-755065074.jpg;s-prd-755064973.jpg,2
+instance_0272,174,BCC,malignant- bcc,l mid back,s-prd-755067315.jpg,1
+instance_0273,174,BCC,malignant- bcc,left posterior calf,s-prd-494895217.jpg,1
+instance_0274,174,BCC,malignant- bcc,mid chest,s-prd-755071520.jpg,1
+instance_0275,174,BCC,malignant- bcc,r lateral calf,s-prd-676851336.jpg,1
+instance_0276,174,BCC,malignant- bcc,right neck,s-prd-494896114.jpg,1
+instance_0277,174,BCC,malignant- bcc,superior l upper back,s-prd-676852563.jpg,1
+instance_0278,174,BCC,malignant- bcc,upper chest,s-prd-755069559.jpg,1
+instance_0279,175,BCC,malignant- bcc,r posterior shoulder ,s-prd-494911386.jpg,1
+instance_0280,176,SCC,malignant- scc,right medial arm ,s-prd-494928670.jpg,1
+instance_0281,177,Dermatofibroma,benign-dermatofibroma,r4 digit,s-prd-494987174.jpg,1
+instance_0282,178,Melanocytic_Nevus,benign-melanocytic nevus,right back,s-prd-495004996.jpg,1
+instance_0283,178,Melanocytic_Nevus,benign-melanocytic nevus,right leg,s-prd-495004431.jpg,1
+instance_0284,179,Melanoma,malignant- melanoma,left postauricular,s-prd-495381437.jpg,1
+instance_0285,183,Melanocytic_Nevus,benign-melanocytic nevus,r shoulder ,s-prd-495982196.jpg,1
+instance_0286,184,Actinic_Keratosis,malignant- ak,l forearm,s-prd-730673921.jpg,1
+instance_0287,184,Actinic_Keratosis,malignant- ak,r forearm,s-prd-730674367.jpg,1
+instance_0288,184,SCC,malignant- scc,r lower leg,s-prd-495995447.jpg,1
+instance_0289,185,Seborrheic_Keratosis,benign-seborrheic keratosis,mid chest,s-prd-496074096.jpg,1
+instance_0290,186,Melanocytic_Nevus,benign-melanocytic nevus,l lower back,s-prd-677895966.jpg,1
+instance_0291,186,SCC,malignant- scc,r cheek ,s-prd-496093681.jpg,1
+instance_0292,186,Other_Inflammatory,"other- non-neoplastic, inflammatory, infectious",l neck,s-prd-677896572.jpg,1
+instance_0293,188,Actinic_Keratosis,malignant- ak,right cheek,s-prd-498319593.jpg,1
+instance_0294,188,SCC,malignant- sccis,left dorsal foot,s-prd-498319111.jpg,1
+instance_0295,189,SCC,malignant- sccis,right helix,s-prd-498406274.jpg,1
+instance_0296,190,BCC,malignant- bcc,mid nasal dorsum ,s-prd-498443821.jpg,1
+instance_0297,191,Other_Benign,benign-other,r lower back ,s-prd-499466412.jpg,1
+instance_0298,191,SCC,malignant- sccis,r lower leg ,s-prd-499465685.jpg,1
+instance_0299,192,Melanocytic_Nevus,benign-melanocytic nevus,right flank,s-prd-498881731.jpg,1
+instance_0300,193,Melanoma,malignant- melanoma,r clavicle,s-prd-498914367.jpg,1
+instance_0301,194,Melanocytic_Nevus,benign-melanocytic nevus,l abdomen,s-prd-499018180.jpg,1
+instance_0302,195,Other_Benign,benign-other,r shoulder,s-prd-499427076.jpg,1
+instance_0303,195,Other_Benign,benign-other,r upper back,s-prd-547626293.jpg,1
+instance_0304,195,BCC,malignant- bcc,l forearm ,s-prd-499427453.jpg,1
+instance_0305,195,BCC,malignant- bcc,left back,s-prd-664840803.jpg,1
+instance_0306,196,Other_Benign,benign-other,l chest ,s-prd-499453944.jpg,1
+instance_0307,197,Other_Benign,benign-other,l temple ,s-prd-499471565.jpg,1
+instance_0308,198,Actinic_Keratosis,malignant- ak,r dorsal hand ,s-prd-499475291.jpg,1
+instance_0309,198,BCC,malignant- bcc,l parietal scalp ,s-prd-499474938.jpg,1
+instance_0310,199,Other_Benign,benign-other,upper mid r chest ,s-prd-499528499.jpg,1
+instance_0311,200,BCC,malignant- bcc, l anterior shin ,s-prd-499537098.jpg,1
+instance_0312,200,Uncertain_Melanocytic,"other- melanocytic lesion, possible re-excision (severe, spitz, aimp)",l abdomen ,s-prd-499536721.jpg,1
+instance_0313,201,Seborrheic_Keratosis,benign-seborrheic keratosis,left forearm,s-prd-598133456.jpg,1
+instance_0314,201,BCC,malignant- bcc,right clavicle ,s-prd-501817652.jpg,1
+instance_0315,202,Melanocytic_Nevus,benign-melanocytic nevus,right calf,s-prd-594093474.jpg,1
+instance_0316,202,Seborrheic_Keratosis,benign-seborrheic keratosis,left lower leg,s-prd-501830862.jpg,1
+instance_0317,202,BCC,malignant- bcc,left shoulder,s-prd-501830804.jpg,1
+instance_0318,202,BCC,malignant- bcc,right cheek ,s-prd-501831862.jpg,1
+instance_0319,203,BCC,malignant- bcc,left mid back,s-prd-501873235.jpg,1
+instance_0320,205,Melanocytic_Nevus,benign-melanocytic nevus,right cheek ,s-prd-501940391.jpg,1
+instance_0321,206,Melanocytic_Nevus,benign-melanocytic nevus,left anterior thigh,s-prd-501938894.jpg,1
+instance_0322,206,Other_Benign,benign-other,left lateral cheek,s-prd-501939689.jpg,1
+instance_0323,206,BCC,malignant- bcc,left upper back ,s-prd-501939477.jpg,1
+instance_0324,207,Melanocytic_Nevus,benign-melanocytic nevus,mid low back,s-prd-501956909.jpg,1
+instance_0325,207,Other_Benign,benign-other,crown of scalp ,s-prd-501955683.jpg,1
+instance_0326,207,BCC,malignant- bcc,mid chest,s-prd-501956126.jpg,1
+instance_0327,208,Seborrheic_Keratosis,benign-seborrheic keratosis,left lower back,s-prd-501964147.jpg,1
+instance_0328,209,Melanocytic_Nevus,benign-melanocytic nevus,r posterior thigh,s-prd-502888128.jpg,1
+instance_0329,210,Other_Benign,benign-other,upper middle lip ,s-prd-502891872.jpg,1
+instance_0330,211,BCC,malignant- bcc,l forearm,s-prd-502898056.jpg,1
+instance_0331,211,Melanoma,malignant- melanoma,l shoulder ,s-prd-502898422.jpg,1
+instance_0332,211,SCC,malignant- scc,frontal scalp,s-prd-502899172.jpg,1
+instance_0333,212,Melanocytic_Nevus,benign-melanocytic nevus,r cheek ,s-prd-502950968.jpg,1
+instance_0334,213,Other_Benign,benign-other,l lower leg ,s-prd-503009758.jpg,1
+instance_0335,214,Other_Benign,benign-other,left cheek ,s-prd-505218890.jpg,1
+instance_0336,215,Melanocytic_Nevus,benign-melanocytic nevus,central chest ,s-prd-505211307.jpg,1
+instance_0337,216,Melanocytic_Nevus,benign-melanocytic nevus,right mid back ,s-prd-505272380.jpg,1
+instance_0338,216,Other_Benign,benign-other,left chest ,s-prd-505276319.jpg,1
+instance_0339,216,Other_Benign,benign-other,left dorsal hand,s-prd-505273589.jpg,1
+instance_0340,217,Melanoma,malignant- melanoma,l arm ,s-prd-505311179.jpg,1
+instance_0341,218,Melanoma,malignant- melanoma,left thigh,s-prd-505843018.jpg,1
+instance_0342,219,BCC,malignant- bcc,r clavicle ,s-prd-506312960.jpg,1
+instance_0343,220,Melanocytic_Nevus,benign-melanocytic nevus,right thigh,s-prd-597776502.jpg,1
+instance_0344,220,BCC,malignant- bcc,l cheek ,s-prd-506324732.jpg,1
+instance_0345,220,BCC,malignant- bcc,l nasal ala,s-prd-506323513.jpg,1
+instance_0346,220,BCC,malignant- bcc,l preauricular ,s-prd-506324244.jpg,1
+instance_0347,220,BCC,malignant- bcc,l shin ,s-prd-506325200.jpg,1
+instance_0348,220,BCC,malignant- bcc,l upper back,s-prd-646178640.jpg,1
+instance_0349,220,BCC,malignant- bcc,l upper chest,s-prd-506322866.jpg,1
+instance_0350,220,BCC,malignant- bcc,r low chest,s-prd-646177246.jpg,1
+instance_0351,220,BCC,malignant- bcc,right shoulder,s-prd-597775974.jpg,1
+instance_0352,220,SCC,malignant- sccis,central chest,s-prd-506322240.jpg,1
+instance_0353,221,BCC,malignant- bcc,l knee,s-prd-512040982.jpg,1
+instance_0354,222,Other_Benign,benign-other,left anterior shin ,s-prd-508464516.jpg,1
+instance_0355,223,Other_Benign,benign-other,forehead,s-prd-508504271.jpg,1
+instance_0356,223,Seborrheic_Keratosis,benign-seborrheic keratosis,upper chest,s-prd-673786790.jpg,1
+instance_0357,223,SCC,malignant- scc,l shoulder,s-prd-673787097.jpg,1
+instance_0358,224,Other_Benign,benign-other,right back,s-prd-509578259.jpg,1
+instance_0359,225,SCC,malignant- scc,left shoulder,s-prd-509614042.jpg,1
+instance_0360,225,SCC,malignant- sccis,left lower leg,s-prd-509613064.jpg,1
+instance_0361,225,SCC,malignant- sccis,r lower leg inferior,s-prd-509612180.jpg,1
+instance_0362,225,SCC,malignant- sccis,right elbow ,s-prd-509613622.jpg,1
+instance_0363,225,SCC,malignant- sccis,right lateral lower leg ,s-prd-509611226.jpg,1
+instance_0364,226,Actinic_Keratosis,malignant- ak,nasal bridge ,s-prd-509600339.jpg,1
+instance_0365,227,SCC,malignant- scc,r forearm,s-prd-618975933.jpg,1
+instance_0366,228,Melanocytic_Nevus,benign-melanocytic nevus,left lower back,s-prd-510992194.jpg,1
+instance_0367,229,Melanocytic_Nevus,benign-melanocytic nevus,r thigh ,s-prd-512000066.jpg,1
+instance_0368,229,Actinic_Keratosis,malignant- ak,left cheek,s-prd-598172843.jpg,1
+instance_0369,229,Actinic_Keratosis,malignant- ak,right shoulder,s-prd-598172935.jpg,1
+instance_0370,230,Melanocytic_Nevus,benign-melanocytic nevus,l lower back ,s-prd-513104691.jpg,1
+instance_0371,231,Melanocytic_Nevus,benign-melanocytic nevus,l medial cheek ,s-prd-514488750.jpg,1
+instance_0372,232,Other_Benign,benign-other,r thigh,s-prd-515512175.jpg,1
+instance_0373,233,Seborrheic_Keratosis,benign-seborrheic keratosis,l forehead ,s-prd-516473154.jpg,1
+instance_0374,234,Actinic_Keratosis,malignant- ak,r forearm ,s-prd-516536670.jpg,1
+instance_0375,234,Actinic_Keratosis,malignant- ak,r vertex scalp ,s-prd-516535776.jpg,1
+instance_0376,234,BCC,malignant- bcc,l infra-auricular,s-prd-625485784.jpg,1
+instance_0377,234,BCC,malignant- bcc,r cheek,s-prd-625487362.jpg,1
+instance_0378,234,Malignant_Other,malignant- other,l temple,s-prd-625484452.jpg,1
+instance_0379,234,SCC,malignant- scc,r superior helix,s-prd-625489978.jpg,1
+instance_0380,235,Dermatofibroma,benign-dermatofibroma,l lower leg ,s-prd-516599457.jpg,1
+instance_0381,236,Other_Benign,benign-other,r lateral knee,s-prd-518854265.jpg,1
+instance_0382,237,SCC,malignant- scc,r forearm ,s-prd-519042308.jpg,1
+instance_0383,238,Melanocytic_Nevus,benign-melanocytic nevus,l lateral neck ,s-prd-519454390.jpg,1
+instance_0384,239,Melanocytic_Nevus,benign-melanocytic nevus,central upper back ,s-prd-519516823.jpg,1
+instance_0385,240,Melanocytic_Nevus,benign-melanocytic nevus,r mid back,s-prd-610183541.jpg,1
+instance_0386,240,BCC,malignant- bcc,left upper back ,s-prd-519944352.jpg,1
+instance_0387,240,Melanoma,malignant- melanoma,l neck,s-prd-698287506.jpg,1
+instance_0388,241,Melanocytic_Nevus,benign-melanocytic nevus,r infirmary breast,s-prd-522327833.jpg,1
+instance_0389,242,SCC,malignant- sccis,l forearm ,s-prd-522338613.jpg,1
+instance_0390,243,Actinic_Keratosis,malignant- ak,r forearm ,s-prd-522345023.jpg,1
+instance_0391,244,BCC,malignant- bcc,l upper back ,s-prd-522373748.jpg,1
+instance_0392,244,BCC,malignant- bcc,r lateral neck ,s-prd-522374512.jpg,1
+instance_0393,244,BCC,malignant- bcc,r upper back ,s-prd-522374153.jpg,1
+instance_0394,245,Seborrheic_Keratosis,benign-seborrheic keratosis,r forehead,s-prd-522382105.jpg,1
+instance_0395,246,Seborrheic_Keratosis,benign-seborrheic keratosis,left shin,s-prd-522445856.jpg,1
+instance_0396,247,Other_Benign,benign-other,r upper arm ,s-prd-522453944.jpg,1
+instance_0397,248,Hemangioma,benign-hemangioma,l mid back ,s-prd-522456528.jpg,1
+instance_0398,249,Melanocytic_Nevus,benign-melanocytic nevus,left alar crease of nose,s-prd-522473631.jpg,1
+instance_0399,250,Dermatofibroma,benign-dermatofibroma,right back,s-prd-523444831.jpg,1
+instance_0400,251,Actinic_Keratosis,malignant- ak,right nasal supra tip,s-prd-653469911.jpg,1
+instance_0401,251,BCC,malignant- bcc,right nasal sidewall ,s-prd-525617648.jpg,1
+instance_0402,252,BCC,malignant- bcc,l temple,s-prd-525631796.jpg,1
+instance_0403,252,BCC,malignant- bcc,mid upper back,s-prd-525632198.jpg,1
+instance_0404,253,Melanocytic_Nevus,benign-melanocytic nevus,left lower back,s-prd-525705499.jpg,1
+instance_0405,253,Actinic_Keratosis,malignant- ak,right cheek,s-prd-525705411.jpg,1
+instance_0406,253,BCC,malignant- bcc,right nasal tip,s-prd-636476225.jpg,1
+instance_0407,253,SCC,malignant- sccis,right cheek,s-prd-636476298.jpg,1
+instance_0408,254,Melanocytic_Nevus,benign-melanocytic nevus,left ear,s-prd-525714300.jpg,1
+instance_0409,255,Melanocytic_Nevus,benign-melanocytic nevus,left upper arm,s-prd-525691404.jpg,1
+instance_0410,256,BCC,malignant- bcc,r forehead,s-prd-525771421.jpg,1
+instance_0411,257,Other_Benign,benign-other,l flank,s-prd-529183292.jpg,1
+instance_0412,258,Seborrheic_Keratosis,benign-seborrheic keratosis,left helix,s-prd-529638395.jpg,1
+instance_0413,259,Actinic_Keratosis,malignant- ak,left frontal scalp,s-prd-529650024.jpg,1
+instance_0414,260,Melanocytic_Nevus,benign-melanocytic nevus,right inguinal fold,s-prd-529664441.jpg,1
+instance_0415,261,SCC,malignant- sccis,right dorsal hand,s-prd-529700098.jpg,1
+instance_0416,262,Other_Benign,benign-other,left buttock,s-prd-529718156.jpg,1
+instance_0417,262,Actinic_Keratosis,malignant- ak,left shin ,s-prd-529718358.jpg,1
+instance_0418,262,BCC,malignant- bcc,left posterior helix,s-prd-529718821.jpg,1
+instance_0419,262,BCC,malignant- bcc,left upper back,s-prd-529722408.jpg,1
+instance_0420,262,BCC,malignant- bcc,right cheek,s-prd-529721389.jpg,1
+instance_0421,262,SCC,malignant- scc,right temple ,s-prd-529720209.jpg,1
+instance_0422,263,Melanocytic_Nevus,benign-melanocytic nevus,mid back,s-prd-532665341.jpg,1
+instance_0423,263,Melanocytic_Nevus,benign-melanocytic nevus,right shoulder,s-prd-532665240.jpg,1
+instance_0424,264,Melanocytic_Nevus,benign-melanocytic nevus,mid abdomen ,s-prd-533191937.jpg,1
+instance_0425,265,SCC,malignant- sccis,left anterior lower leg,s-prd-533656553.jpg,1
+instance_0426,266,Melanocytic_Nevus,benign-melanocytic nevus,right plantar arch,s-prd-533678252.jpg,1
+instance_0427,266,BCC,malignant- bcc,right medial lower leg,s-prd-533676918.jpg,1
+instance_0428,267,Actinic_Keratosis,malignant- ak,r mid vertex,s-prd-758811838.jpg,1
+instance_0429,267,BCC,malignant- bcc,mid back ,s-prd-536023089.jpg,1
+instance_0430,268,Other_Benign,benign-other,right superior helix,s-prd-536077991.jpg,1
+instance_0431,268,SCC,malignant- scc,right lower leg,s-prd-536078042.jpg,1
+instance_0432,269,Melanocytic_Nevus,benign-melanocytic nevus,right calf ,s-prd-536683642.jpg,1
+instance_0433,270,Melanocytic_Nevus,benign-melanocytic nevus,left thigh,s-prd-536697930.jpg,1
+instance_0434,271,Melanocytic_Nevus,benign-melanocytic nevus,mid upper back,s-prd-537169044.jpg,1
+instance_0435,272,SCC,malignant- sccis,right neck,s-prd-537173234.jpg,1
+instance_0436,273,Melanocytic_Nevus,benign-melanocytic nevus,l upper back,s-prd-636329752.jpg,1
+instance_0437,273,Other_Benign,benign-other,nasal bridge,s-prd-539537413.jpg,1
+instance_0438,274,BCC,malignant- bcc,mid central back,s-prd-539637011.jpg,1
+instance_0439,274,SCC,malignant- sccis,left central back,s-prd-539637627.jpg,1
+instance_0440,275,Uncertain_Melanocytic,"other- melanocytic lesion, possible re-excision (severe, spitz, aimp)",left upper back,s-prd-540143117.jpg,1
+instance_0441,276,Uncertain_Melanocytic,"other- melanocytic lesion, possible re-excision (severe, spitz, aimp)",upper back,s-prd-540150372.jpg,1
+instance_0442,277,Melanocytic_Nevus,benign-melanocytic nevus,r upper back,s-prd-676932752.jpg,1
+instance_0443,277,Actinic_Keratosis,malignant- ak,l temple,s-prd-543024270.jpg,1
+instance_0444,277,SCC,malignant- scc,l wrist,s-prd-676931885.jpg,1
+instance_0445,277,SCC,malignant- scc,r neck,s-prd-543024142.jpg,1
+instance_0446,278,Melanocytic_Nevus,benign-melanocytic nevus,left lower back,s-prd-639808934.jpg,1
+instance_0447,278,Other_Benign,benign-other,r forehead,s-prd-543049889.jpg,1
+instance_0448,278,BCC,malignant- bcc,right lower leg,s-prd-639808984.jpg,1
+instance_0449,279,SCC,malignant- scc,right chin,s-prd-543068295.jpg,1
+instance_0450,280,Other_Benign,benign-other,left upper back,s-prd-543088647.jpg,1
+instance_0451,280,Actinic_Keratosis,malignant- ak,right frontal scalp,s-prd-543088630.jpg,1
+instance_0452,281,SCC,malignant- scc,right pre-auricular,s-prd-543094791.jpg,1
+instance_0453,282,Other_Benign,benign-other,left thigh,s-prd-543163426.jpg,1
+instance_0454,282,Seborrheic_Keratosis,benign-seborrheic keratosis,left back,s-prd-543163411.jpg,1
+instance_0455,285,Dermatofibroma,benign-dermatofibroma,r shin,s-prd-544115594.jpg,1
+instance_0456,285,Other_Benign,benign-other,r shoulder,s-prd-544117973.jpg,1
+instance_0457,286,Other_Benign,benign-other,posterior neck,s-prd-546582721.jpg,1
+instance_0458,288,BCC,malignant- bcc,l alar crease,s-prd-547126652.jpg,1
+instance_0459,289,Seborrheic_Keratosis,benign-seborrheic keratosis,l chest,s-prd-547130847.jpg,1
+instance_0460,289,Actinic_Keratosis,malignant- ak,philtrum,s-prd-629989014.jpg,1
+instance_0461,289,SCC,malignant- scc,l shoulder,s-prd-690892438.jpg,1
+instance_0462,290,Other_Benign,benign-other,r arm,s-prd-548957218.jpg,1
+instance_0463,291,Melanoma,malignant- melanoma,l upper back,s-prd-549048559.jpg,1
+instance_0464,294,Melanocytic_Nevus,benign-melanocytic nevus,r thigh,s-prd-816374667.jpg,1
+instance_0465,294,Melanocytic_Nevus,benign-melanocytic nevus,right lower leg,s-prd-553158131.jpg,1
+instance_0466,296,Seborrheic_Keratosis,benign-seborrheic keratosis,l arm,s-prd-553668208.jpg,1
+instance_0467,297,Melanocytic_Nevus,benign-melanocytic nevus,l thigh,s-prd-553692206.jpg,1
+instance_0468,297,BCC,malignant- bcc,right pre-auricular,s-prd-725916434.jpg,1
+instance_0469,298,Melanocytic_Nevus,benign-melanocytic nevus,l lower abdomen,s-prd-553560061.jpg,1
+instance_0470,298,Other_Benign,benign-other,l upper back,s-prd-553552275.jpg,1
+instance_0471,298,BCC,malignant- bcc,r upper back,s-prd-553551267.jpg,1
+instance_0472,299,Other_Benign,benign-other,r chest,s-prd-554144882.jpg,1
+instance_0473,300,SCC,malignant- sccis,l cheek,s-prd-554219088.jpg,1
+instance_0474,301,BCC,malignant- bcc,l root of neck ,s-prd-554233136.jpg,1
+instance_0475,302,Melanocytic_Nevus,benign-melanocytic nevus,r upper abdomen,s-prd-554240746.jpg,1
+instance_0476,303,Other_Benign,benign-other,right lower leg,s-prd-554635623.jpg,1
+instance_0477,304,Melanocytic_Nevus,benign-melanocytic nevus,l foot,s-prd-556501072.jpg,1
+instance_0478,308,Dermatofibroma,benign-dermatofibroma,right calf,s-prd-560521273.jpg,1
+instance_0479,309,Melanocytic_Nevus,benign-melanocytic nevus,left upper thigh,s-prd-560547879.jpg,1
+instance_0480,310,Melanocytic_Nevus,benign-melanocytic nevus,l abdomen,s-prd-560557057.jpg,1
+instance_0481,310,BCC,malignant- bcc,r cheek,s-prd-560556807.jpg,1
+instance_0482,311,Other_Benign,benign-other,l chest,s-prd-560587719.jpg,1
+instance_0483,312,Melanocytic_Nevus,benign-melanocytic nevus,l calf,s-prd-560604892.jpg,1
+instance_0484,313,Melanocytic_Nevus,benign-melanocytic nevus,l posterior shoulder,s-prd-560611842.jpg,1
+instance_0485,313,Melanoma,malignant- melanoma,rt inferior parietal,s-prd-560610881.jpg,1
+instance_0486,313,Melanoma,malignant- melanoma,rt superior parietal,s-prd-560609730.jpg,1
+instance_0487,314,Melanoma,malignant- melanoma,l upper back,s-prd-791828587.jpg,1
+instance_0488,315,Other_Benign,benign-other,l medial shin,s-prd-567755780.jpg,1
+instance_0489,316,Seborrheic_Keratosis,benign-seborrheic keratosis,l leg,s-prd-564178611.jpg,1
+instance_0490,317,Melanocytic_Nevus,benign-melanocytic nevus,l forearm,s-prd-556935259.jpg,1
+instance_0491,318,Melanocytic_Nevus,benign-melanocytic nevus,l flank,s-prd-564815119.jpg,1
+instance_0492,319,Dermatofibroma,benign-dermatofibroma,l knee,s-prd-564834103.jpg,1
+instance_0493,319,Hemangioma,benign-hemangioma,l clavicle,s-prd-564835030.jpg,1
+instance_0494,319,Other_Benign,benign-other,r thigh,s-prd-564834634.jpg,1
+instance_0495,320,Other_Benign,benign-other,r back,s-prd-567734596.jpg,1
+instance_0496,321,Seborrheic_Keratosis,benign-seborrheic keratosis,l lower leg,s-prd-755222687.jpg,1
+instance_0497,322,Seborrheic_Keratosis,benign-seborrheic keratosis,r jaw,s-prd-567798090.jpg,1
+instance_0498,323,Dermatofibroma,benign-dermatofibroma,r posterior shoulder,s-prd-568279358.jpg,1
+instance_0499,323,Melanocytic_Nevus,benign-melanocytic nevus,mid back,s-prd-568282756.jpg,1
+instance_0500,324,Melanocytic_Nevus,benign-melanocytic nevus,r posterior thigh,s-prd-568312591.jpg,1
+instance_0501,325,Melanocytic_Nevus,benign-melanocytic nevus,mid back,s-prd-571313526.jpg,1
+instance_0502,326,Melanocytic_Nevus,benign-melanocytic nevus,l calf,s-prd-571344677.jpg,1
+instance_0503,328,Melanocytic_Nevus,benign-melanocytic nevus,mid back,s-prd-571479405.jpg,1
+instance_0504,328,Other_Inflammatory,"other- non-neoplastic, inflammatory, infectious",r forehead,s-prd-571479367.jpg,1
+instance_0505,329,Hemangioma,benign-hemangioma,posterior neck,s-prd-571934861.jpg,1
+instance_0506,330,Melanocytic_Nevus,benign-melanocytic nevus,l back,s-prd-574925008.jpg,1
+instance_0507,331,SCC,malignant- sccis,r neck,s-prd-575603822.jpg,1
+instance_0508,335,Uncertain_Melanocytic,"other- melanocytic lesion, possible re-excision (severe, spitz, aimp)",l shoulder,s-prd-578188932.jpg,1
+instance_0509,336,Melanocytic_Nevus,benign-melanocytic nevus,r lateral back,s-prd-578212873.jpg,1
+instance_0510,337,Other_Benign,benign-other,right forearm,s-prd-680314970.jpg,1
+instance_0511,337,Uncertain_Melanocytic,"other- melanocytic lesion, possible re-excision (severe, spitz, aimp)",l lower leg,s-prd-578796527.jpg,1
+instance_0512,340,Melanoma,malignant- melanoma,left upper arm,s-prd-582327381.jpg,1
+instance_0513,341,BCC,malignant- bcc,r frontal hairline,s-prd-582334024.jpg,1
+instance_0514,342,Other_Benign,benign-other,l axilla,s-prd-582398278.jpg,1
+instance_0515,342,Melanoma,malignant- melanoma,right postauricular,s-prd-582396855.jpg,1
+instance_0516,343,SCC,malignant- scc,l forearm,s-prd-582450327.jpg,1
+instance_0517,344,Seborrheic_Keratosis,benign-seborrheic keratosis,l superior helix of ear,s-prd-582478141.jpg,1
+instance_0518,347,Other_Benign,benign-other,r back,s-prd-585513725.jpg,1
+instance_0519,348,Seborrheic_Keratosis,benign-seborrheic keratosis,left forehead,s-prd-591272079.jpg,1
+instance_0520,349,BCC,malignant- bcc,l lower back,s-prd-585928247.jpg,1
+instance_0521,349,BCC,malignant- bcc,upper back,s-prd-585928580.jpg,1
+instance_0522,350,Actinic_Keratosis,malignant- ak,left vertex scalp,s-prd-585943378.jpg,1
+instance_0523,350,Actinic_Keratosis,malignant- ak,right frontal scalp,s-prd-585943230.jpg,1
+instance_0524,351,Other_Benign,benign-other,left alar crease (peri-nasal),s-prd-591288298.jpg,1
+instance_0525,352,Seborrheic_Keratosis,benign-seborrheic keratosis,right lateral mid back,s-prd-585969146.jpg,1
+instance_0526,353,SCC,malignant- scc,l upper arm,s-prd-586022660.jpg,1
+instance_0527,353,SCC,malignant- scc,r forearm,s-prd-586023233.jpg,1
+instance_0528,354,Seborrheic_Keratosis,benign-seborrheic keratosis,left vertex scalp,s-prd-586039874.jpg,1
+instance_0529,355,Seborrheic_Keratosis,benign-seborrheic keratosis,right thigh,s-prd-586538277.jpg,1
+instance_0530,356,Melanocytic_Nevus,benign-melanocytic nevus,l posterior shoulder,s-prd-589529390.jpg,1
+instance_0531,356,Melanoma,malignant- melanoma,l medial calf,s-prd-589526674.jpg,1
+instance_0532,357,Melanoma,malignant- melanoma,r upper abdomen,s-prd-590546594.jpg,1
+instance_0533,358,Melanocytic_Nevus,benign-melanocytic nevus,r shin,s-prd-593416010.jpg,1
+instance_0534,359,Melanoma,malignant- melanoma,right neck,s-prd-593677931.jpg,1
+instance_0535,360,BCC,malignant- bcc,r preauricular cheek,s-prd-594204047.jpg,1
+instance_0536,361,Other_Benign,benign-other,left jawline,s-prd-595362688.jpg,1
+instance_0537,362,Seborrheic_Keratosis,benign-seborrheic keratosis,left chest,s-prd-597675120.jpg,1
+instance_0538,363,Other_Inflammatory,"other- non-neoplastic, inflammatory, infectious",right anterior scalp,s-prd-597751517.jpg,1
+instance_0539,364,Other_Inflammatory,"other- non-neoplastic, inflammatory, infectious",submental jaw,s-prd-597760088.jpg,1
+instance_0540,365,BCC,malignant- bcc,right medial lower leg,s-prd-600434316.jpg,1
+instance_0541,366,BCC,malignant- bcc,left cheek,s-prd-601217258.jpg,1
+instance_0542,366,BCC,malignant- bcc,right nasal sidewall,s-prd-601219029.jpg,1
+instance_0543,368,Other_Benign,benign-other,r proximal leg melanoma scar,s-prd-601675443.jpg,1
+instance_0544,369,Seborrheic_Keratosis,benign-seborrheic keratosis,right helix,s-prd-601724798.jpg,1
+instance_0545,371,Other_Benign,benign-other,l cheek,s-prd-602888767.jpg,1
+instance_0546,371,BCC,malignant- bcc,l neck,s-prd-602887695.jpg,1
+instance_0547,372,Other_Benign,benign-other,mid upper back,s-prd-671615185.jpg,1
+instance_0548,372,Seborrheic_Keratosis,benign-seborrheic keratosis,r shin,s-prd-602917781.jpg,1
+instance_0549,373,Other_Benign,benign-other,left upper cutaneous lip,s-prd-605082542.jpg,1
+instance_0550,374,Other_Benign,benign-other,l dorsal forearm,s-prd-605113801.jpg,1
+instance_0551,375,Other_Benign,benign-other,lower abdomen,s-prd-605132537.jpg,1
+instance_0552,377,Other_Benign,benign-other,r lateral cheek,s-prd-605592835.jpg,1
+instance_0553,378,Dermatofibroma,benign-dermatofibroma,r upper arm,s-prd-606644107.jpg,1
+instance_0554,379,BCC,malignant- bcc,mid vertex scalp,s-prd-606692824.jpg,1
+instance_0555,380,Actinic_Keratosis,malignant- ak,left neck,s-prd-608746848.jpg,1
+instance_0556,380,BCC,malignant- bcc,r mid back,s-prd-608748374.jpg,1
+instance_0557,381,Melanocytic_Nevus,benign-melanocytic nevus,left lower back,s-prd-609140269.jpg,1
+instance_0558,381,Melanoma,malignant- melanoma,right upper back,s-prd-609140212.jpg,1
+instance_0559,382,Other_Benign,benign-other,left forearm,s-prd-610216412.jpg,1
+instance_0560,382,Other_Benign,benign-other,right forehead,s-prd-610213921.jpg,1
+instance_0561,383,Other_Inflammatory,"other- non-neoplastic, inflammatory, infectious",left pre-auricular,s-prd-610249543.jpg,1
+instance_0562,383,Other_Inflammatory,"other- non-neoplastic, inflammatory, infectious",right pre-auricular,s-prd-610248745.jpg,1
+instance_0563,384,BCC,malignant- bcc,r vertex scalp,s-prd-610268327.jpg,1
+instance_0564,385,Melanoma,malignant- melanoma,left helix,s-prd-612095509.jpg,1
+instance_0565,386,Melanocytic_Nevus,benign-melanocytic nevus,right abdomen,s-prd-612595738.jpg,1
+instance_0566,387,Melanoma,malignant- melanoma,central upper back,s-prd-613075816.jpg,1
+instance_0567,388,Melanoma,malignant- melanoma,right forearm,s-prd-615606560.jpg,1
+instance_0568,388,Uncertain_Melanocytic,"other- melanocytic lesion, possible re-excision (severe, spitz, aimp)",left chest,s-prd-615606571.jpg,1
+instance_0569,395,BCC,malignant- bcc,r upper back,s-prd-619972011.jpg,1
+instance_0570,396,Actinic_Keratosis,malignant- ak,l hand,s-prd-619984143.jpg,1
+instance_0571,396,SCC,malignant- scc,l shin,s-prd-671620246.jpg,1
+instance_0572,397,Melanocytic_Nevus,benign-melanocytic nevus,l abdomen,s-prd-620045325.jpg,1
+instance_0573,397,Actinic_Keratosis,malignant- ak,r lower leg,s-prd-620046503.jpg,1
+instance_0574,398,Actinic_Keratosis,malignant- ak,right lower eyelid,s-prd-622050242.jpg,1
+instance_0575,399,Melanocytic_Nevus,benign-melanocytic nevus,l inner upper arm,s-prd-729573220.jpg,1
+instance_0576,399,Melanoma,malignant- melanoma,r medial chest,s-prd-622589685.jpg,1
+instance_0577,400,Other_Benign,benign-other,r vertex scalp,s-prd-625463280.jpg,1
+instance_0578,401,Dermatofibroma,benign-dermatofibroma,l mid back,s-prd-625916231.jpg,1
+instance_0579,403,Melanoma,malignant- melanoma,right neck,s-prd-626514237.jpg,1
+instance_0580,404,Other_Benign,benign-other,left forehead,s-prd-626989949.jpg,1
+instance_0581,404,Melanoma,malignant- melanoma,right back,s-prd-626988783.jpg,1
+instance_0582,405,Other_Benign,benign-other,right lateral ankle,s-prd-627002760.jpg,1
+instance_0583,406,BCC,malignant- bcc,r shin,s-prd-628954154.jpg,1
+instance_0584,406,Uncertain_Melanocytic,"other- melanocytic lesion, possible re-excision (severe, spitz, aimp)",low mid back,s-prd-628956392.jpg,1
+instance_0585,407,BCC,malignant- bcc,left arm medial,s-prd-629027317.jpg,1
+instance_0586,407,BCC,malignant- bcc,mid forehead,s-prd-629024131.jpg,1
+instance_0587,407,BCC,malignant- bcc,right cheek,s-prd-629025057.jpg,1
+instance_0588,407,BCC,malignant- bcc,right forearm,s-prd-629026676.jpg,1
+instance_0589,407,Uncertain_Melanocytic,"other- melanocytic lesion, possible re-excision (severe, spitz, aimp)",left arm lateral,s-prd-629031169.jpg,1
+instance_0590,408,Seborrheic_Keratosis,benign-seborrheic keratosis,l frontal scalp,s-prd-629351286.jpg,1
+instance_0591,409,Melanocytic_Nevus,benign-melanocytic nevus,r lower back,s-prd-629403245.jpg,1
+instance_0592,411,Melanocytic_Nevus,benign-melanocytic nevus,left abdomen,s-prd-629529176.jpg,1
+instance_0593,412,Actinic_Keratosis,malignant- ak,mid nasal dorsum,s-prd-629537354.jpg,1
+instance_0594,412,Melanoma,malignant- melanoma,left eyebrow,s-prd-687094841.jpg,1
+instance_0595,412,Melanoma,malignant- melanoma,r shoulder,s-prd-736919538.jpg,1
+instance_0596,412,Uncertain_Melanocytic,"other- melanocytic lesion, possible re-excision (severe, spitz, aimp)",r chest,s-prd-736921773.jpg,1
+instance_0597,413,Actinic_Keratosis,malignant- ak,l cheek,s-prd-629967824.jpg,1
+instance_0598,415,Melanoma,malignant- melanoma,right buttock,s-prd-631859058.jpg,1
+instance_0599,417,Melanocytic_Nevus,benign-melanocytic nevus,left cheek,s-prd-632418935.jpg,1
+instance_0600,417,SCC,malignant- scc,right forearm,s-prd-632421565.jpg,1
+instance_0601,418,SCC,malignant- scc,r forehead,s-prd-632451203.jpg,1
+instance_0602,418,SCC,malignant- scc,r jaw,s-prd-632452698.jpg,1
+instance_0603,419,Melanoma,malignant- melanoma,mid upper cutaneous lip,s-prd-632469524.jpg,1
+instance_0604,420,Melanocytic_Nevus,benign-melanocytic nevus,mid lower back,s-prd-632473142.jpg,1
+instance_0605,421,Other_Benign,benign-other,right cheek,s-prd-632815248.jpg,1
+instance_0606,422,Melanoma,malignant- melanoma,left back,s-prd-632864513.jpg,1
+instance_0607,423,Seborrheic_Keratosis,benign-seborrheic keratosis,left back,s-prd-633423757.jpg,1
+instance_0608,424,BCC,malignant- bcc,l back,s-prd-633875243.jpg,1
+instance_0609,425,SCC,malignant- sccis,r frontal scalp,s-prd-633897956.jpg,1
+instance_0610,426,Melanocytic_Nevus,benign-melanocytic nevus,left back,s-prd-633900750.jpg,1
+instance_0611,427,Melanocytic_Nevus,benign-melanocytic nevus,r posterior neck,s-prd-633956535.jpg,1
+instance_0612,428,BCC,malignant- bcc,r temple,s-prd-635950589.jpg,1
+instance_0613,429,Other_Benign,benign-other,r dorsal hand,s-prd-635975941.jpg,1
+instance_0614,429,Malignant_Other,malignant- other,r shoulder,s-prd-635976780.jpg,1
+instance_0615,430,Other_Benign,benign-other,mid upper back,s-prd-636361006.jpg,1
+instance_0616,431,Melanocytic_Nevus,benign-melanocytic nevus,left upper arm,s-prd-725964916.jpg,1
+instance_0617,431,Seborrheic_Keratosis,benign-seborrheic keratosis,right lower leg,s-prd-636392728.jpg,1
+instance_0618,432,Seborrheic_Keratosis,benign-seborrheic keratosis,r shin,s-prd-636432003.jpg,1
+instance_0619,433,Other_Benign,benign-other,l mid back,s-prd-636526831.jpg,1
+instance_0620,435,BCC,malignant- bcc,mid nasal supra tip,s-prd-637445671.jpg,1
+instance_0621,436,Actinic_Keratosis,malignant- ak,mid posterior neck,s-prd-637496928.jpg,1
+instance_0622,436,BCC,malignant- bcc,l cheek,s-prd-637493712.jpg,1
+instance_0623,436,Malignant_Other,malignant- other,r supra nasal tip,s-prd-637492050.jpg,1
+instance_0624,437,Melanoma,malignant- melanoma,right upper back,s-prd-638744645.jpg,1
+instance_0625,439,Hemangioma,benign-hemangioma,left post auricular,s-prd-639798404.jpg,1
+instance_0626,440,Other_Benign,benign-other,right jaw,s-prd-639833887.jpg,1
+instance_0627,441,BCC,malignant- bcc,mid chest,s-prd-639846865.jpg,1
+instance_0628,441,BCC,malignant- bcc,right chest,s-prd-639846911.jpg,1
+instance_0629,442,Melanocytic_Nevus,benign-melanocytic nevus,l back,s-prd-690413588.jpg,1
+instance_0630,442,Melanocytic_Nevus,benign-melanocytic nevus,left groin,s-prd-650122425.jpg,1
+instance_0631,442,Melanocytic_Nevus,benign-melanocytic nevus,left lower flank,s-prd-650118680.jpg,1
+instance_0632,442,Melanocytic_Nevus,benign-melanocytic nevus,r lower chest,s-prd-750182427.jpg,1
+instance_0633,442,Melanocytic_Nevus,benign-melanocytic nevus,right ankle,s-prd-650116999.jpg,1
+instance_0634,442,Melanoma,malignant- melanoma,l knee,s-prd-639953516.jpg,1
+instance_0635,443,Melanocytic_Nevus,benign-melanocytic nevus,l upper arm,s-prd-640005469.jpg,1
+instance_0636,443,Other_Benign,benign-other,l lower lip,s-prd-640009559.jpg,1
+instance_0637,444,Uncertain_Melanocytic,"other- melanocytic lesion, possible re-excision (severe, spitz, aimp)",l upper back,s-prd-640382240.jpg,1
+instance_0638,446,BCC,malignant- bcc,r nasal fold,s-prd-640509576.jpg,1
+instance_0639,447,Hemangioma,benign-hemangioma,r upper back,s-prd-640886577.jpg,1
+instance_0640,448,BCC,malignant- bcc,l upper vermilion border,s-prd-640932432.jpg,1
+instance_0641,449,SCC,malignant- scc,r forearm,s-prd-640939036.jpg,1
+instance_0642,450,Seborrheic_Keratosis,benign-seborrheic keratosis,l forehead,s-prd-642735781.jpg,1
+instance_0643,452,SCC,malignant- sccis,right cheek,s-prd-643132835.jpg,1
+instance_0644,453,SCC,malignant- scc,right thigh,s-prd-643139348.jpg,1
+instance_0645,454,Other_Benign,benign-other,mid back,s-prd-643198309.jpg,1
+instance_0646,454,BCC,malignant- bcc,left anterior shoulder,s-prd-643198281.jpg,1
+instance_0647,455,Melanocytic_Nevus,benign-melanocytic nevus,right abdomen,s-prd-643256557.jpg,1
+instance_0648,456,BCC,malignant- bcc,l medial cheek,s-prd-643312419.jpg,1
+instance_0649,457,Melanocytic_Nevus,benign-melanocytic nevus,chest,s-prd-643717329.jpg,1
+instance_0650,458,Other_Benign,benign-other,right upper back,s-prd-646170364.jpg,1
+instance_0651,458,BCC,malignant- bcc,right temple,s-prd-646170868.jpg,1
+instance_0652,459,BCC,malignant- bcc,mid nasal supratip,s-prd-646173981.jpg,1
+instance_0653,460,Other_Benign,benign-other,left knee,s-prd-646556286.jpg,1
+instance_0654,461,Dermatofibroma,benign-dermatofibroma,r upper back,s-prd-646588806.jpg,1
+instance_0655,462,Melanoma,malignant- melanoma,right medial knee,s-prd-646648992.jpg,1
+instance_0656,463,BCC,malignant- bcc,left lateral neck,s-prd-646667308.jpg,1
+instance_0657,463,BCC,malignant- bcc,right lower back,s-prd-646669900.jpg,1
+instance_0658,464,Other_Inflammatory,"other- non-neoplastic, inflammatory, infectious",posterior neck,s-prd-646719474.jpg,1
+instance_0659,465,Melanocytic_Nevus,benign-melanocytic nevus,mid back,s-prd-647201799.jpg,1
+instance_0660,465,Uncertain_Melanocytic,"other- melanocytic lesion, possible re-excision (severe, spitz, aimp)",l postauricular,s-prd-647202546.jpg,1
+instance_0661,466,Actinic_Keratosis,malignant- ak,r lateral leg,s-prd-647205548.jpg,1
+instance_0662,467,Melanocytic_Nevus,benign-melanocytic nevus,r lateral calf,s-prd-647266169.jpg,1
+instance_0663,468,Melanocytic_Nevus,benign-melanocytic nevus,r side burn,s-prd-647672020.jpg,1
+instance_0664,468,BCC,malignant- bcc,r calf,s-prd-727026636.jpg,1
+instance_0665,468,BCC,malignant- bcc,r shin,s-prd-647670238.jpg,1
+instance_0666,468,Melanoma,malignant- melanoma,l neck,s-prd-727025681.jpg,1
+instance_0667,469,Melanocytic_Nevus,benign-melanocytic nevus,mid lower back,s-prd-647675032.jpg,1
+instance_0668,470,BCC,malignant- bcc,r preauricular,s-prd-647709210.jpg,1
+instance_0669,471,BCC,malignant- bcc,r forearm,s-prd-647725386.jpg,1
+instance_0670,472,BCC,malignant- bcc,l forearm,s-prd-647732504.jpg,1
+instance_0671,475,Other_Benign,benign-other,left thigh proximal,s-prd-649636809.jpg,1
+instance_0672,475,SCC,malignant- scc,left thigh distal,s-prd-649635891.jpg,1
+instance_0673,476,Seborrheic_Keratosis,benign-seborrheic keratosis,mid vertex,s-prd-649659064.jpg,1
+instance_0674,477,Actinic_Keratosis,malignant- ak,left forearm,s-prd-650170171.jpg,1
+instance_0675,477,Actinic_Keratosis,malignant- ak,right forearm,s-prd-650170059.jpg,1
+instance_0676,478,Seborrheic_Keratosis,benign-seborrheic keratosis,left neck,s-prd-650207551.jpg,1
+instance_0677,478,Seborrheic_Keratosis,benign-seborrheic keratosis,r conchal bowl,s-prd-650205336.jpg,1
+instance_0678,479,Melanocytic_Nevus,benign-melanocytic nevus,right lateral cheek,s-prd-650605047.jpg,1
+instance_0679,480,Melanocytic_Nevus,benign-melanocytic nevus,upper mid abdomen,s-prd-650635003.jpg,1
+instance_0680,480,Seborrheic_Keratosis,benign-seborrheic keratosis,r upper chest,s-prd-650633491.jpg,1
+instance_0681,481,Seborrheic_Keratosis,benign-seborrheic keratosis,l abdomen,s-prd-650715610.jpg,1
+instance_0682,482,Other_Benign,benign-other,l thigh,s-prd-651113389.jpg,1
+instance_0683,483,Other_Inflammatory,"other- non-neoplastic, inflammatory, infectious",supra pubic skin,s-prd-651122299.jpg,1
+instance_0684,484,BCC,malignant- bcc,l temple,s-prd-651166022.jpg,1
+instance_0685,485,SCC,malignant- sccis,l elbow,s-prd-653085829.jpg,1
+instance_0686,486,Other_Benign,benign-other,left posterior neck,s-prd-653100336.jpg,1
+instance_0687,486,Actinic_Keratosis,malignant- ak,left shoulder anterior,s-prd-653101000.jpg,1
+instance_0688,486,Actinic_Keratosis,malignant- ak,right anterior leg,s-prd-653108136.jpg,1
+instance_0689,486,BCC,malignant- bcc,left infra mammary,s-prd-653104814.jpg,1
+instance_0690,486,BCC,malignant- bcc,left shoulder posterior,s-prd-653102420.jpg,1
+instance_0691,486,BCC,malignant- bcc,right lateral thigh,s-prd-653106614.jpg,1
+instance_0692,487,Melanocytic_Nevus,benign-melanocytic nevus,l preauricular,s-prd-653115629.jpg,1
+instance_0693,487,SCC,malignant- scc,l back,s-prd-653116796.jpg,1
+instance_0694,488,Hemangioma,benign-hemangioma,r cheek,s-prd-653461056.jpg,1
+instance_0695,489,Uncertain_Melanocytic,"melanocytic tumor, possible re-excision (severe, spitz, aimp)",r abdomen,s-prd-653460126.jpg,1
+instance_0696,490,Other_Inflammatory,"other- non-neoplastic, inflammatory, infectious",right arm,s-prd-653508705.jpg,1
+instance_0697,491,BCC,malignant- bcc,left nasal dorsum,s-prd-653535222.jpg,1
+instance_0698,492,Seborrheic_Keratosis,benign-seborrheic keratosis,right vertex scalp,s-prd-653537288.jpg,1
+instance_0699,492,BCC,malignant- bcc,left scalp vertex,s-prd-653535803.jpg,1
+instance_0700,493,BCC,malignant- bcc,left shoulder,s-prd-653544109.jpg,1
+instance_0701,494,BCC,malignant- bcc,right upper back,s-prd-653656265.jpg,1
+instance_0702,495,Seborrheic_Keratosis,benign-seborrheic keratosis,chest,s-prd-654011074.jpg,1
+instance_0703,498,Other_Benign,benign-other,left chest,s-prd-656475625.jpg,1
+instance_0704,498,Actinic_Keratosis,malignant- ak,mid-nasal dorsum,s-prd-656471304.jpg,1
+instance_0705,498,BCC,malignant- bcc,right nasal ala,s-prd-656472764.jpg,1
+instance_0706,498,SCC,malignant- scc,right clavicle,s-prd-656474553.jpg,1
+instance_0707,499,Seborrheic_Keratosis,benign-seborrheic keratosis,left chest,s-prd-656501358.jpg,1
+instance_0708,501,Melanoma,malignant- melanoma,l medial plantar heel,s-prd-656882193.jpg,1
+instance_0709,501,Melanoma,malignant- melanoma,left mid plantar heel,s-prd-656882947.jpg,1
+instance_0710,505,Melanocytic_Nevus,benign-melanocytic nevus,mid back,s-prd-660358361.jpg,1
+instance_0711,506,Other_Benign,benign-other,left forearm,s-prd-660437401.jpg,1
+instance_0712,507,BCC,malignant- bcc,right helix,s-prd-660946182.jpg,1
+instance_0713,508,Fibrous_Papule,benign-fibrous papule,mid nasal dorsum,s-prd-661411177.jpg,1
+instance_0714,510,Seborrheic_Keratosis,benign-seborrheic keratosis,left cheek,s-prd-661477371.jpg,1
+instance_0715,511,BCC,malignant- bcc,l chest,s-prd-663353562.jpg,1
+instance_0716,511,BCC,malignant- bcc,l posterior shoulder,s-prd-663354720.jpg,1
+instance_0717,512,Melanoma,malignant- melanoma,r base of neck,s-prd-663361738.jpg,1
+instance_0718,513,SCC,malignant- scc,l upper back,s-prd-663714022.jpg,1
+instance_0719,513,Uncertain_Melanocytic,"other- melanocytic lesion, possible re-excision (severe, spitz, aimp)",left arm,s-prd-693776049.jpg,1
+instance_0720,524,Other_Benign,benign-other,nasal dorsum,s-prd-664276612.jpg,1
+instance_0721,525,BCC,malignant- bcc,left shin,s-prd-664281603.jpg,1
+instance_0722,526,Melanocytic_Nevus,benign-melanocytic nevus,mons pubis,s-prd-664430742.jpg,1
+instance_0723,527,BCC,malignant- bcc,upper back,s-prd-664436217.jpg,1
+instance_0724,528,Melanocytic_Nevus,benign-melanocytic nevus,r calf,s-prd-664801752.jpg,1
+instance_0725,528,BCC,malignant- bcc,l upper arm,s-prd-664800557.jpg,1
+instance_0726,529,Melanocytic_Nevus,benign-melanocytic nevus,r back,s-prd-664825248.jpg,1
+instance_0727,530,Actinic_Keratosis,malignant- ak,right calf,s-prd-664832774.jpg,1
+instance_0728,531,Melanocytic_Nevus,benign-melanocytic nevus,l suprapubic,s-prd-664856854.jpg,1
+instance_0729,532,Uncertain_Melanocytic,"other- melanocytic lesion, possible re-excision (severe, spitz, aimp)",l arm,s-prd-666741742.jpg,1
+instance_0730,533,SCC,malignant- sccis,r abdomen,s-prd-666760115.jpg,1
+instance_0731,534,Seborrheic_Keratosis,benign-seborrheic keratosis,left lower leg,s-prd-667118139.jpg,1
+instance_0732,535,SCC,malignant- sccis,right forearm,s-prd-667126595.jpg,1
+instance_0733,536,Melanoma,malignant- melanoma,right chest,s-prd-667126358.jpg,1
+instance_0734,537,Other_Benign,benign-other,l nasal ala,s-prd-667226595.jpg,1
+instance_0735,538,Other_Benign,benign-other,mid upper back,s-prd-667262631.jpg,1
+instance_0736,538,Seborrheic_Keratosis,benign-seborrheic keratosis,l chest,s-prd-762698157.jpg,1
+instance_0737,539,Uncertain_Melanocytic,"other- melanocytic lesion, possible re-excision (severe, spitz, aimp)",upper back,s-prd-667263393.jpg,1
+instance_0738,540,Other_Benign,benign-other,l knee,s-prd-668184784.jpg,1
+instance_0739,541,BCC,malignant- bcc,central upper abdomen,s-prd-670111446.jpg,1
+instance_0740,542,Other_Benign,benign-other,r leg,s-prd-670129937.jpg,1
+instance_0741,544,Actinic_Keratosis,malignant- ak,l nasal supratip,s-prd-670180201.jpg,1
+instance_0742,545,BCC,malignant- bcc,left forehead,s-prd-670511050.jpg,1
+instance_0743,546,Uncertain_Melanocytic,"other- melanocytic lesion, possible re-excision (severe, spitz, aimp)",right upper arm,s-prd-670667593.jpg,1
+instance_0744,547,Hemangioma,benign-hemangioma,right back,s-prd-670677720.jpg,1
+instance_0745,547,Other_Benign,benign-other,left arm,s-prd-670677571.jpg,1
+instance_0746,548,BCC,malignant- bcc,l lower back,s-prd-671609243.jpg,1
+instance_0747,551,Melanocytic_Nevus,benign-melanocytic nevus,left back,s-prd-673789697.jpg,1
+instance_0748,551,Actinic_Keratosis,malignant- ak,l cheek,s-prd-673789167.jpg,1
+instance_0749,551,BCC,malignant- bcc,left elbow,s-prd-673789200.jpg,1
+instance_0750,553,Fibrous_Papule,benign-fibrous papule,left nasal supratip,s-prd-674753142.jpg,1
+instance_0751,555,Melanocytic_Nevus,benign-melanocytic nevus,right elbow,s-prd-680815441.jpg,1
+instance_0752,556,Melanocytic_Nevus,benign-melanocytic nevus,l lower back,s-prd-676964314.jpg,1
+instance_0753,557,Melanocytic_Nevus,benign-melanocytic nevus,l upper back,s-prd-676917545.jpg,1
+instance_0754,558,Seborrheic_Keratosis,benign-seborrheic keratosis,frontal scalp,s-prd-677395855.jpg,1
+instance_0755,560,Melanocytic_Nevus,benign-melanocytic nevus,r neck,s-prd-677881137.jpg,1
+instance_0756,561,BCC,malignant- bcc,right mid back,s-prd-677906718.jpg,1
+instance_0757,562,Other_Benign,benign-other,left lower cutaneous lip,s-prd-679733935.jpg,1
+instance_0758,563,Actinic_Keratosis,malignant- ak,left cheek,s-prd-679753648.jpg,1
+instance_0759,564,SCC,malignant- scc,right nasal sidewall,s-prd-679809416.jpg,1
+instance_0760,564,SCC,malignant- sccis,right distal forearm,s-prd-679810482.jpg,1
+instance_0761,564,SCC,malignant- sccis,right proximal forearm,s-prd-679811880.jpg,1
+instance_0762,565,BCC,malignant- bcc,right posterior calf,s-prd-679817367.jpg,1
+instance_0763,566,Melanoma,malignant- melanoma,right anterior shin,s-prd-680199862.jpg,1
+instance_0764,567,Melanoma,malignant- melanoma,right superior upper arm,s-prd-680259175.jpg,1
+instance_0765,568,Seborrheic_Keratosis,benign-seborrheic keratosis,left lateral jawline,s-prd-680698386.jpg,1
+instance_0766,569,Seborrheic_Keratosis,benign-seborrheic keratosis,l thigh,s-prd-680824980.jpg,1
+instance_0767,569,SCC,malignant- sccis,l nasal sidewall,s-prd-680825670.jpg,1
+instance_0768,570,Melanocytic_Nevus,benign-melanocytic nevus,r upper back,s-prd-680844803.jpg,1
+instance_0769,570,Melanoma,malignant- melanoma,r posterior shoulder,s-prd-680843422.jpg,1
+instance_0770,570,Uncertain_Melanocytic,"other- melanocytic lesion, possible re-excision (severe, spitz, aimp)",l upper back,s-prd-680846287.jpg,1
+instance_0771,571,Melanocytic_Nevus,benign-melanocytic nevus,right lower back,s-prd-680774388.jpg,1
+instance_0772,572,Uncertain_Melanocytic,"other- melanocytic lesion, possible re-excision (severe, spitz, aimp)",l lateral thigh,s-prd-681268487.jpg,1
+instance_0773,573,Melanoma,malignant- melanoma,mid back,s-prd-683568628.jpg,1
+instance_0774,575,Melanocytic_Nevus,benign-melanocytic nevus,l posterior shoulder,s-prd-683610446.jpg,1
+instance_0775,576,Melanocytic_Nevus,benign-melanocytic nevus,l mid back,s-prd-683624027.jpg,1
+instance_0776,577,SCC,malignant- scc,right temple,s-prd-687040690.jpg,1
+instance_0777,578,Melanocytic_Nevus,benign-melanocytic nevus,left scapula,s-prd-687082638.jpg,1
+instance_0778,580,Fibrous_Papule,benign-fibrous papule,l nasal ala,s-prd-687092609.jpg,1
+instance_0779,581,Other_Benign,benign-other,right cheek,s-prd-687128287.jpg,1
+instance_0780,582,Melanocytic_Nevus,benign-melanocytic nevus,right upper abdomen,s-prd-687207512.jpg,1
+instance_0781,583,SCC,malignant- sccis,r thumb base,s-prd-688158943.jpg,1
+instance_0782,584,Melanocytic_Nevus,benign-melanocytic nevus,l inguinal crease,s-prd-690340288.jpg,1
+instance_0783,588,Uncertain_Melanocytic,"other- melanocytic lesion, possible re-excision (severe, spitz, aimp)",l knee,s-prd-690434214.jpg,1
+instance_0784,589,Melanoma,malignant- melanoma,r back,s-prd-690484329.jpg,1
+instance_0785,591,Other_Benign,benign-other,chest,s-prd-690958793.jpg,1
+instance_0786,591,Other_Benign,benign-other,l upper back,s-prd-751991738.jpg,1
+instance_0787,591,Other_Inflammatory,"other- non-neoplastic, inflammatory, infectious",left arm,s-prd-690954379.jpg,1
+instance_0788,593,BCC,malignant- bcc,mid nasal dorsum,s-prd-693339151.jpg,1
+instance_0789,593,BCC,malignant- bcc,r forehead,s-prd-693337322.jpg,1
+instance_0790,594,Melanocytic_Nevus,benign-melanocytic nevus,l flank inferior,s-prd-693358730.jpg,1
+instance_0791,594,Melanocytic_Nevus,benign-melanocytic nevus,l flank superior,s-prd-693357772.jpg,1
+instance_0792,595,Melanocytic_Nevus,benign-melanocytic nevus,r lower back,s-prd-693810540.jpg,1
+instance_0793,596,Melanocytic_Nevus,benign-melanocytic nevus,l upper back,s-prd-693912150.jpg,1
+instance_0794,597,Other_Benign,benign-other,l mid back,s-prd-694813974.jpg,1
+instance_0795,601,Seborrheic_Keratosis,benign-seborrheic keratosis,l temple,s-prd-697332932.jpg,1
+instance_0796,603,Other_Benign,benign-other,l calf,s-prd-697798740.jpg,1
+instance_0797,604,Melanocytic_Nevus,benign-melanocytic nevus,l forehead,s-prd-697814488.jpg,1
+instance_0798,605,Melanocytic_Nevus,benign-melanocytic nevus,abdomen,s-prd-697891782.jpg,1
+instance_0799,606,SCC,malignant- scc,lower vermilion lip,s-prd-698343245.jpg,1
+instance_0800,607,Melanoma,malignant- melanoma,l lateral neck,s-prd-699590729.jpg,1
+instance_0801,608,Melanocytic_Nevus,benign-melanocytic nevus,right posterior thigh,s-prd-699676042.jpg,1
+instance_0802,610,Melanocytic_Nevus,benign-melanocytic nevus,left forearm,s-prd-700233322.jpg,1
+instance_0803,611,Melanocytic_Nevus,benign-melanocytic nevus,left lower back,s-prd-700626216.jpg,1
+instance_0804,612,Seborrheic_Keratosis,benign-seborrheic keratosis,nasal bridge,s-prd-700640058.jpg,1
+instance_0805,613,Melanocytic_Nevus,benign-melanocytic nevus,left mid back,s-prd-700645763.jpg,1
+instance_0806,613,Melanocytic_Nevus,benign-melanocytic nevus,right mid back,s-prd-700648741.jpg,1
+instance_0807,614,Melanocytic_Nevus,benign-melanocytic nevus,left posterior thigh,s-prd-700711525.jpg,1
+instance_0808,616,Melanoma,malignant- melanoma,l posterior calf,s-prd-700853950.jpg,1
+instance_0809,618,Melanocytic_Nevus,benign-melanocytic nevus,l abdomen,s-prd-701824022.jpg,1
+instance_0810,618,BCC,malignant- bcc,right nasal sidewall,s-prd-701822300.jpg,1
+instance_0811,619,Uncertain_Melanocytic,"other- melanocytic lesion, possible re-excision (severe, spitz, aimp)",l upper back,s-prd-701866768.jpg,1
+instance_0812,620,Seborrheic_Keratosis,benign-seborrheic keratosis,l elbow,s-prd-703909414.jpg,1
+instance_0813,620,Seborrheic_Keratosis,benign-seborrheic keratosis,l neck,s-prd-703910602.jpg,1
+instance_0814,621,Melanocytic_Nevus,benign-melanocytic nevus,r upper back,s-prd-703924956.jpg,1
+instance_0815,622,Melanocytic_Nevus,benign-melanocytic nevus,lower back,s-prd-704376909.jpg,1
+instance_0816,624,Melanocytic_Nevus,benign-melanocytic nevus,lower back,s-prd-704414606.jpg,1
+instance_0817,626,SCC,malignant- sccis,l frontal scalp,s-prd-707297935.jpg,1
+instance_0818,627,Fibrous_Papule,benign-fibrous papule,r nose tip,s-prd-707345887.jpg,1
+instance_0819,628,Melanocytic_Nevus,benign-melanocytic nevus,mid back,s-prd-707707602.jpg,1
+instance_0820,629,Melanoma,malignant- melanoma,right abdomen,s-prd-707776894.jpg,1
+instance_0821,629,Melanoma,malignant- melanoma,right superomedial thigh,s-prd-816891825.jpg;s-prd-816895427.jpg,2
+instance_0822,633,BCC,malignant- bcc,r neck,s-prd-711514175.jpg,1
+instance_0823,635,Uncertain_Melanocytic,"other- melanocytic lesion, possible re-excision (severe, spitz, aimp)",left breast,s-prd-715065778.jpg,1
+instance_0824,636,BCC,malignant- bcc,r vertex scalp,s-prd-716262700.jpg,1
+instance_0825,636,SCC,malignant- scc,l hand,s-prd-716259410.jpg,1
+instance_0826,637,SCC,malignant- scc,r temple,s-prd-716305675.jpg,1
+instance_0827,638,Melanoma,malignant- melanoma,r lateral eyelid,s-prd-716346228.jpg,1
+instance_0828,639,Melanocytic_Nevus,benign-melanocytic nevus,l temple,s-prd-808566368.jpg;s-prd-808565895.jpg,2
+instance_0829,640,Seborrheic_Keratosis,benign-seborrheic keratosis,r upper eyelid,s-prd-718752703.jpg,1
+instance_0830,640,SCC,malignant- scc,l eyebrow,s-prd-718752996.jpg,1
+instance_0831,640,SCC,malignant- sccis,l helix,s-prd-718753629.jpg,1
+instance_0832,641,Other_Benign,benign-other,r upper back,s-prd-718783349.jpg,1
+instance_0833,641,BCC,malignant- bcc,l nasal bridge,s-prd-718783502.jpg,1
+instance_0834,643,Melanocytic_Nevus,benign-melanocytic nevus,l upper back,s-prd-719292842.jpg,1
+instance_0835,644,Melanocytic_Nevus,benign-melanocytic nevus,central chest,s-prd-719315705.jpg,1
+instance_0836,645,Seborrheic_Keratosis,benign-seborrheic keratosis,r jaw,s-prd-719343497.jpg,1
+instance_0837,646,Fibrous_Papule,benign-fibrous papule,l nasal bridge,s-prd-719355119.jpg,1
+instance_0838,647,Melanocytic_Nevus,benign-melanocytic nevus,l mid back,s-prd-719378540.jpg,1
+instance_0839,648,Other_Benign,benign-other,l lateral cheek,s-prd-719479621.jpg,1
+instance_0840,650,BCC,malignant- bcc,mid nasal dorsum,s-prd-722388247.jpg,1
+instance_0841,651,Dermatofibroma,benign-dermatofibroma,l posterior ankle,s-prd-722389700.jpg,1
+instance_0842,652,Seborrheic_Keratosis,benign-seborrheic keratosis,l helix,s-prd-722466874.jpg,1
+instance_0843,653,Fibrous_Papule,benign-fibrous papule,l nasal ala,s-prd-722958428.jpg,1
+instance_0844,654,Other_Benign,benign-other,l thigh,s-prd-722985015.jpg,1
+instance_0845,655,Melanoma,malignant- melanoma,l dorsal foot,s-prd-723505745.jpg,1
+instance_0846,656,Other_Benign,benign-other,l mid back,s-prd-725903842.jpg,1
+instance_0847,656,Seborrheic_Keratosis,benign-seborrheic keratosis,r neck,s-prd-725903164.jpg,1
+instance_0848,658,Other_Benign,benign-other,l forearm,s-prd-818055863.jpg,1
+instance_0849,659,Other_Benign,benign-other,r mid back,s-prd-725968779.jpg,1
+instance_0850,659,Melanoma,malignant- melanoma,r upper back,s-prd-725967589.jpg,1
+instance_0851,660,Melanocytic_Nevus,benign-melanocytic nevus,right chest,s-prd-725957207.jpg,1
+instance_0852,663,Uncertain_Melanocytic,"other- melanocytic lesion, possible re-excision (severe, spitz, aimp)",r abdomen,s-prd-728334702.jpg,1
+instance_0853,664,Seborrheic_Keratosis,benign-seborrheic keratosis,l thigh,s-prd-728506326.jpg,1
+instance_0854,666,Seborrheic_Keratosis,benign-seborrheic keratosis,r forearm,s-prd-729665523.jpg,1
+instance_0855,670,Melanocytic_Nevus,benign-melanocytic nevus,r upper arm,s-prd-730699944.jpg,1
+instance_0856,694,BCC,malignant- bcc,r forearm,s-prd-734281736.jpg,1
+instance_0857,694,SCC,malignant- scc,r shoulder,s-prd-734282481.jpg,1
+instance_0858,696,Melanocytic_Nevus,benign-melanocytic nevus,l abdomen,s-prd-736359404.jpg,1
+instance_0859,697,BCC,malignant- bcc,nasal dorsum,s-prd-736762293.jpg,1
+instance_0860,700,Melanoma,malignant- melanoma,mid upper back,s-prd-737941180.jpg,1
+instance_0861,701,Other_Benign,benign-other,r forehead,s-prd-737957960.jpg,1
+instance_0862,703,Melanocytic_Nevus,benign-melanocytic nevus,r lateral foot,s-prd-737991455.jpg,1
+instance_0863,704,Melanocytic_Nevus,benign-melanocytic nevus,r eyelid,s-prd-740254406.jpg,1
+instance_0864,705,Seborrheic_Keratosis,benign-seborrheic keratosis,l shoulder,s-prd-740267620.jpg,1
+instance_0865,706,Other_Benign,benign-other,r cheek,s-prd-740329027.jpg,1
+instance_0866,707,SCC,malignant- sccis,r elbow,s-prd-740448030.jpg,1
+instance_0867,708,SCC,malignant- scc,mid l vertex scalp,s-prd-741428823.jpg,1
+instance_0868,709,Seborrheic_Keratosis,benign-seborrheic keratosis,l neck,s-prd-741454946.jpg,1
+instance_0869,710,Melanocytic_Nevus,benign-melanocytic nevus,l thigh,s-prd-741472766.jpg,1
+instance_0870,710,BCC,malignant- bcc,l cheek,s-prd-741471914.jpg,1
+instance_0871,711,Other_Benign,benign-other,l hip,s-prd-741477305.jpg,1
+instance_0872,712,Actinic_Keratosis,malignant- ak,r cheek,s-prd-741502771.jpg,1
+instance_0873,714,SCC,malignant- scc,l dorsal hand,s-prd-744683407.jpg,1
+instance_0874,716,Actinic_Keratosis,malignant- ak,l superior helix,s-prd-745167410.jpg,1
+instance_0875,717,Other_Benign,benign-other,l abdomen,s-prd-745185292.jpg,1
+instance_0876,718,Melanoma,malignant- melanoma,l inferior upper arm,s-prd-747837578.jpg,1
+instance_0877,720,BCC,malignant- bcc,r temple,s-prd-748861428.jpg,1
+instance_0878,721,Seborrheic_Keratosis,benign-seborrheic keratosis,l shin,s-prd-750171525.jpg,1
+instance_0879,722,Other_Benign,benign-other,l lateral knee,s-prd-750192918.jpg,1
+instance_0880,725,Melanocytic_Nevus,benign-melanocytic nevus,r nasal bridge,s-prd-751329815.jpg,1
+instance_0881,726,BCC,malignant- bcc,r nasal bridge,s-prd-751358412.jpg,1
+instance_0882,726,BCC,malignant- bcc,r upper lip,s-prd-751359473.jpg,1
+instance_0883,727,Dermatofibroma,benign-dermatofibroma,l upper arm,s-prd-751480049.jpg,1
+instance_0884,728,Other_Benign,benign-other,l cheek,s-prd-751543683.jpg,1
+instance_0885,730,BCC,malignant- bcc,l ear scapha,s-prd-752550464.jpg,1
+instance_0886,731,Melanocytic_Nevus,benign-melanocytic nevus,l jawline,s-prd-752556439.jpg,1
+instance_0887,732,Dermatofibroma,benign-dermatofibroma,l lower leg,s-prd-752576585.jpg,1
+instance_0888,732,BCC,malignant- bcc,l lower eyelid,s-prd-752576846.jpg;s-prd-737409832.jpg,2
+instance_0889,733,BCC,malignant- bcc,mid vertex scalp,s-prd-752588183.jpg,1
+instance_0890,734,BCC,malignant- bcc,l forehead,s-prd-756232750.jpg,1
+instance_0891,736,Melanocytic_Nevus,benign-melanocytic nevus,l upper back,s-prd-756256453.jpg,1
+instance_0892,737,Melanoma,malignant- melanoma,r dorsal foot,s-prd-758788377.jpg,1
+instance_0893,738,Dermatofibroma,benign-dermatofibroma,l forearm,s-prd-758853725.jpg,1
+instance_0894,739,Melanocytic_Nevus,benign-melanocytic nevus,l mid back,s-prd-758877480.jpg,1
+instance_0895,739,BCC,malignant- bcc,l neck,s-prd-758876835.jpg,1
+instance_0896,740,Melanocytic_Nevus,benign-melanocytic nevus,l upper back,s-prd-759492543.jpg,1
+instance_0897,740,Melanocytic_Nevus,benign-melanocytic nevus,r upper back,s-prd-759493175.jpg,1
+instance_0898,741,SCC,malignant- scc,l temple,s-prd-759514477.jpg,1
+instance_0899,742,BCC,malignant- bcc,right neck,s-prd-760002822.jpg,1
+instance_0900,742,BCC,malignant- bcc,right shin,s-prd-760001435.jpg,1
+instance_0901,743,Melanoma,malignant- melanoma,right chest,s-prd-760032632.jpg,1
+instance_0902,744,Melanocytic_Nevus,benign-melanocytic nevus,r posterior thigh,s-prd-762051725.jpg,1
+instance_0903,744,BCC,malignant- bcc,mid nasal supratip,s-prd-762048797.jpg,1
+instance_0904,744,Melanoma,malignant- melanoma,l anterior thigh,s-prd-762049726.jpg,1
+instance_0905,744,Melanoma,malignant- melanoma,l mid back,s-prd-762051102.jpg,1
+instance_0906,745,Melanoma,malignant- melanoma,l mid back,s-prd-763709553.jpg,1
+instance_0907,746,BCC,malignant- bcc,mid forehead,s-prd-763759975.jpg,1
+instance_0908,746,SCC,malignant- scc,r forearm,s-prd-763760359.jpg,1
+instance_0909,747,Uncertain_Melanocytic,"other- melanocytic lesion, possible re-excision (severe, spitz, aimp)",mid back,s-prd-766282009.jpg,1
+instance_0910,748,Melanocytic_Nevus,benign-melanocytic nevus,r thigh,s-prd-766393515.jpg,1
+instance_0911,749,Actinic_Keratosis,malignant- ak,l nasal sidewall,s-prd-767485734.jpg,1
+instance_0912,750,SCC,malignant- sccis,l lower leg,s-prd-767495841.jpg,1
+instance_0913,751,BCC,malignant- bcc,mid nasal dorsum,s-prd-767507948.jpg,1
+instance_0914,752,Other_Benign,benign-other,r 3rd finger,s-prd-767517978.jpg,1
+instance_0915,752,Melanoma,malignant- melanoma,r upper back,s-prd-767519869.jpg,1
+instance_0916,753,BCC,malignant- bcc,r nasal supratip,s-prd-767533535.jpg,1
+instance_0917,755,SCC,malignant- scc,l wrist,s-prd-771154301.jpg,1
+instance_0918,755,SCC,malignant- sccis,l hand radial,s-prd-771154687.jpg,1
+instance_0919,756,Actinic_Keratosis,malignant- ak,l medial eyebrow,s-prd-770127306.jpg,1
+instance_0920,757,Melanocytic_Nevus,benign-melanocytic nevus,r medial malleolus,s-prd-770161186.jpg;s-prd-770164382.jpg,2
+instance_0921,758,SCC,malignant- scc,l forearm,s-prd-770585540.jpg,1
+instance_0922,759,Other_Inflammatory,"other- non-neoplastic, inflammatory, infectious",l upper chest,s-prd-774292441.jpg,1
+instance_0923,760,BCC,malignant- bcc,nasal tip,s-prd-774837279.jpg;s-prd-774837124.jpg,2
+instance_0924,761,Dermatofibroma,benign-dermatofibroma,l lower leg,s-prd-774860409.jpg,1
+instance_0925,762,Other_Benign,benign-other,l forehead,s-prd-774881263.jpg,1
+instance_0926,763,SCC,malignant- sccis,l medial thigh,s-prd-776360453.jpg,1
+instance_0927,765,Melanoma,malignant- melanoma,r antitragus,s-prd-778134911.jpg,1
+instance_0928,765,SCC,malignant- sccis,r pinky,s-prd-778135129.jpg,1
+instance_0929,766,Melanocytic_Nevus,benign-melanocytic nevus,r calf,s-prd-778139589.jpg,1
+instance_0930,772,BCC,malignant- bcc,r upper chest,s-prd-784541963.jpg,1
+instance_0931,774,Seborrheic_Keratosis,benign-seborrheic keratosis,l neck,s-prd-785675540.jpg,1
+instance_0932,777,Other_Benign,benign-other,r nasal ala,s-prd-789349408.jpg,1
+instance_0933,778,Uncertain_Melanocytic,"other- melanocytic lesion, possible re-excision (severe, spitz, aimp)",r upper arm,s-prd-789354186.jpg,1
+instance_0934,779,BCC,malignant- bcc,mid upper back,s-prd-792921034.jpg,1
+instance_0935,780,Other_Benign,benign-other,l upper back,s-prd-792966025.jpg,1
+instance_0936,781,Seborrheic_Keratosis,benign-seborrheic keratosis,l cheek,s-prd-798621912.jpg,1
+instance_0937,782,BCC,malignant- bcc,l back,s-prd-810318940.jpg,1
+instance_0938,783,Uncertain_Melanocytic,"other- melanocytic lesion, possible re-excision (severe, spitz, aimp)",l inframammary,s-prd-801833355.jpg,1
+instance_0939,784,Uncertain_Melanocytic,"other- melanocytic lesion, possible re-excision (severe, spitz, aimp)",l lower back,s-prd-801890843.jpg,1
+instance_0940,785,Melanoma,malignant- melanoma,left vertex scalp,s-prd-805569549.jpg,1
+instance_0941,785,Melanoma,malignant- melanoma,r lower cheek,s-prd-805568340.jpg,1
+instance_0942,786,Other_Benign,benign-other,r posterior thigh,s-prd-805625554.jpg,1
+instance_0943,787,Melanocytic_Nevus,benign-melanocytic nevus,l occiput,s-prd-810352341.jpg,1
+instance_0944,787,Seborrheic_Keratosis,benign-seborrheic keratosis,l jaw,s-prd-810351033.jpg,1
+instance_0945,788,Melanocytic_Nevus,benign-melanocytic nevus,r mid back,s-prd-810366135.jpg,1
+instance_0946,789,Other_Benign,benign-other,r lower leg,s-prd-810377906.jpg,1
+instance_0947,790,Melanoma,malignant- melanoma,l upper back,s-prd-812956099.jpg;s-prd-812955529.jpg,2
+instance_0948,791,Seborrheic_Keratosis,benign-seborrheic keratosis,r forearm,s-prd-813104923.jpg,1
+instance_0949,802,SCC,malignant- scc,l cheek,s-prd-816838229.jpg,1
+instance_0950,803,Melanocytic_Nevus,benign-melanocytic nevus,l upper back,s-prd-816922714.jpg,1
+instance_0951,804,Actinic_Keratosis,malignant- ak,mid upper cutaneous lip,s-prd-817999507.jpg,1
+instance_0952,805,BCC,malignant- bcc,l cheek,s-prd-818016911.jpg,1
+instance_0953,805,BCC,malignant- bcc,mid upper back,s-prd-818019450.jpg,1
+instance_0954,805,Melanoma,malignant- melanoma,l neck,s-prd-818018502.jpg,1
+instance_0955,806,BCC,malignant- bcc,l leg,s-prd-818052567.jpg,1
+instance_0956,807,Uncertain_Melanocytic,"other- melanocytic lesion, possible re-excision (severe, spitz, aimp)",right calf,s-prd-820556191.jpg;s-prd-820558468.jpg,2
+instance_0957,815,Melanocytic_Nevus,benign-melanocytic nevus,lower back,s-prd-856668096.jpg,1
