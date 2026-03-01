@@ -8,9 +8,18 @@ wheels/
 
 # Virtual environments
 .venv
-
-# Large data/image dirs
 DataCleaning/Images
 
-# Model weights (too large for git)
+DataCleaning/*.md
 Main&ModelTesting/*.pth
+
+DataCleaning/Sorted_Dscope_Binary
+DataCleaning/SkinCancer_YOLO_Split
+
+# Yolo Stuff
+*.pt
+*.pth
+
+# Ultralytics Data & Caches 
+*.cache
+>>>>>>> 167173aacf50db8870ffc7724aac40db99224f09
