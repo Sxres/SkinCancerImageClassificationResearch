@@ -26,3 +26,5 @@ Main&ModelTesting/runs/
 
 # LaTeX paper components (not part of codebase)
 latex-components/
+
+paper/
