@@ -23,6 +23,3 @@ DataCleaning/SkinCancer_YOLO_Split
 # Ultralytics Data & Caches 
 *.cache
 Main&ModelTesting/runs/
-
-# LaTeX paper components (not part of codebase)
-latex-components/
