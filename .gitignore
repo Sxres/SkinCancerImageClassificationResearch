@@ -23,3 +23,5 @@ DataCleaning/SkinCancer_YOLO_Split
 # Ultralytics Data & Caches 
 *.cache
 Main&ModelTesting/runs/
+
+HAM10000/
